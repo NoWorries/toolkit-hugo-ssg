@@ -1,0 +1,3 @@
+[submodule "themes/toolkit"]
+	path = themes/toolkit
+	url = https://github.com/NoWorries/toolkit-hugo
