@@ -8,6 +8,8 @@ theme = 'toolkit'
   images = ['/digital-garden-logo.png']
   enableSearch = true
 
+
+
 [menu]
 [[menu.main]]
   name = 'Home'
@@ -25,10 +27,6 @@ theme = 'toolkit'
   name = 'Resources'
   url = '/resources'
   weight = 4
-[[menu.main]]
-  name = 'Portfolio'
-  url = '/portfolio'
-  weight = 5 
 [[menu.main]]
   name = 'Stack'
   url = '/stack'
