@@ -9,7 +9,7 @@ tags:
 - Design system
 - Components
 categories:
-- Inspiration
+- Design System
 ---
 
 Designed to be a reference for anyone building component-based user interfaces, The Component Gallery is an up-to-date repository of interface components based on examples from the world of design systems.
