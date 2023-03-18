@@ -1,0 +1,13 @@
+---
+title: The Guide to Accessible Web Components | Erik Kroes
+date: 2023-01-01
+description: This guide provides best practices for building accessible web components.
+link: https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft/
+pricing: 
+tags: 
+- unsorted-bookmarks-1 
+categories: 
+- unsorted 
+---
+
+This guide provides best practices for building accessible web components.
