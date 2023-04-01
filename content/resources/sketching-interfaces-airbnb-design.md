@@ -5,9 +5,11 @@ description: This article discusses the benefits of sketching in the design proc
 link: https://airbnb.design/sketching-interfaces/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Sketching
+- Design process
+- Article
 categories: 
-- unsorted 
+- Design
 ---
 
 This article discusses the benefits of sketching in the design process, and how the design team at Airbnb uses sketching to explore ideas, iterate quickly, and communicate effectively.

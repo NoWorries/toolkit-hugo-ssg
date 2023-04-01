@@ -8,8 +8,9 @@ tags:
 - Examples
 - Research
 - UI examples
-categories:
 - Inspiration
+categories:
+- Design
 ---
 
 UI UX Inspirational Gallery for iOS and Android

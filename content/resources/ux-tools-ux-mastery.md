@@ -5,9 +5,11 @@ description: A comprehensive list of UX design tools for user research, ideation
 link: https://uxmastery.com/resources/tools/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Research
+- Prototyping
+- Collection
 categories: 
-- unsorted 
+- Design 
 ---
 
 A comprehensive list of UX design tools for user research, ideation, prototyping, and more.

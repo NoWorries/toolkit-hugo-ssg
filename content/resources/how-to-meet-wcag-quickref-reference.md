@@ -5,9 +5,10 @@ description: A quick reference guide for meeting the Web Content Accessibility G
 link: https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize&levels=aaa&technologies=flash%2Csl
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Accessibility
+- WCAG
 categories: 
-- unsorted 
+- Development 
 ---
 
 A quick reference guide for meeting the Web Content Accessibility Guidelines (WCAG) 2.1, including guidelines for making web content perceivable, operable, understandable, and robust.

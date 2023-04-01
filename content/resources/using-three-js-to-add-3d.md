@@ -5,9 +5,10 @@ description: This article is a tutorial on how to use Three.js to add 3D element
 link: https://www.elegantthemes.com/blog/design/using-three-js-to-add-3d-elements-to-your-websites
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- 3D
+- Article
 categories: 
-- unsorted 
+- Development 
 ---
 
 This article is a tutorial on how to use Three.js to add 3D elements to your websites.

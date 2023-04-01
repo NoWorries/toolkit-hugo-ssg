@@ -5,9 +5,11 @@ description: Design Lint is a tool that automatically checks your designs for in
 link: https://lintyour.design/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Accessibility
+- Tool
+- Figma
 categories: 
-- unsorted 
+- Design
 ---
 
 Design Lint is a tool that automatically checks your designs for inconsistencies, errors, and accessibility issues.

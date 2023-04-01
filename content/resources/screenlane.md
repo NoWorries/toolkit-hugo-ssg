@@ -7,8 +7,9 @@ tags:
 - Examples
 - Research
 - UI examples
-categories:
 - Inspiration
+categories:
+- Design
 ---
 
 Get inspired and keep up with the latest web & mobile app UI design trends

@@ -5,9 +5,9 @@ description: This article provides a UX perspective on the fastest way to design
 link: https://medium.com/@uxmovement/the-fastest-navigation-layout-for-a-three-level-menu-b0480e2f11a2
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Article
 categories: 
-- unsorted 
+- Design
 ---
 
 This article provides a UX perspective on the fastest way to design a three-level navigation menu for a website.

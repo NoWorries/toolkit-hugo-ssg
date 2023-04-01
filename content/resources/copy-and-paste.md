@@ -5,9 +5,11 @@ description: Copy and Paste Accessible Code is a collection of code snippets to 
 link: https://mikemai.net/cpac
 pricing: 
 tags: 
-- unsorted-bookmarks-1 
+- Code snippets
+- Accessibility
+- Collection
 categories: 
-- unsorted 
+- Development 
 ---
 
 Copy and Paste Accessible Code is a collection of code snippets to help developers create more accessible websites and applications.

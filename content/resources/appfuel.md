@@ -7,8 +7,9 @@ pricing:
 tags: 
 - Flows
 - UI examples
-categories:
 - Inspiration
+categories:
+- Design
 ---
 
 Save yourself days of benchmark to focus on product, with inspiration and best practices from top apps.

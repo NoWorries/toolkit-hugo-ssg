@@ -5,9 +5,10 @@ description: A collection of cards that define expectations for accessible compo
 link: https://davatron5000.github.io/a11y-nutrition-cards/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Accessibility
+- Guide 
 categories: 
-- unsorted 
+- Development 
 ---
 
 A collection of cards that define expectations for accessible components.

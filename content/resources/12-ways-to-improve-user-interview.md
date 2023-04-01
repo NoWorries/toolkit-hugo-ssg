@@ -5,9 +5,11 @@ description: This article provides tips on how to improve user interview questio
 link: https://www.smashingmagazine.com/2020/06/user-interview-questions/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Interviews
+- Research
+- Article
 categories: 
-- unsorted 
+- Design
 ---
 
 This article provides tips on how to improve user interview questions, including advice on question phrasing, tone, and more.

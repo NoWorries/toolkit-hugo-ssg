@@ -6,9 +6,8 @@ link: https://uigarage.net/
 pricing:
 tags: 
 - Inspiration
-- UI examples
 categories:
-- Inspiration
+- Design
 ---
 
 Find specific design inspiration for web, mobile and tablet. Search over 6,757 patterns categorized and handpicked for you.

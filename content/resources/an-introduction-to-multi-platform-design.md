@@ -5,9 +5,10 @@ description: This article introduces multi-platform design systems and discusses
 link: https://dbanks.design/blog/multi-platform/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Design systems
+- Article
 categories: 
-- unsorted 
+- Design systems 
 ---
 
 This article introduces multi-platform design systems and discusses their benefits, challenges, and strategies for creating them.

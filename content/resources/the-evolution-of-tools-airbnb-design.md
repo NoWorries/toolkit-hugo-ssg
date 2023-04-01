@@ -5,9 +5,10 @@ description: This article discusses the evolution of design tools and workflows 
 link: https://airbnb.design/the-evolution-of-tools/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Tools
+- Article 
 categories: 
-- unsorted 
+- Design
 ---
 
 This article discusses the evolution of design tools and workflows at Airbnb, and how the design team has adapted to new technologies and changing design needs over time.

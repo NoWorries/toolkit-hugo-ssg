@@ -5,9 +5,11 @@ description: Chakra UI is a simple, modular and accessible component library tha
 link: https://chakra-ui.com/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Design systems
+- Accessibility
+- React 
 categories: 
-- unsorted 
+- Design systems 
 ---
 
 Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.

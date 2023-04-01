@@ -5,9 +5,11 @@ description: Google's guide to building progressive web applications that can ru
 link: https://developers.google.com/web/progressive-web-apps/desktop
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- PWA
+- Tips
+- Best practice
 categories: 
-- unsorted 
+- Development 
 ---
 
 Google's guide to building progressive web applications that can run seamlessly on desktop and mobile devices, with tips and best practices.

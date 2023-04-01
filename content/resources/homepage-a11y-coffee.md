@@ -5,9 +5,9 @@ description: A11y Coffee is a website focused on accessibility topics, including
 link: https://a11y.coffee/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Accessibility 
 categories: 
-- unsorted 
+- Development 
 ---
 
 A11y Coffee is a website focused on accessibility topics, including tips and tutorials on how to make websites more accessible.

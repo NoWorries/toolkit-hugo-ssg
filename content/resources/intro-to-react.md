@@ -5,9 +5,10 @@ description: This article provides an introduction to React.js, including how it
 link: https://medium.com/the-codelog/intro-to-react-js-a37696fd99af
 pricing: 
 tags: 
-- unsorted-bookmarks-1 
+- React
+- Article 
 categories: 
-- unsorted 
+- Development
 ---
 
 This article provides an introduction to React.js, including how it works and how to get started with it.

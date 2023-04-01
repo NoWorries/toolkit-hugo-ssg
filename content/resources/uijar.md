@@ -6,9 +6,8 @@ link: https://uijar.com/
 pricing:
 tags: 
 - Inspiration
-- UI examples
 categories:
-- Inspiration
+- Design
 ---
 
 Handpicked website and graphic design inspiratio

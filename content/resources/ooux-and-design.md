@@ -5,9 +5,10 @@ description: In this article, Sophia V. Prater explains how Object-Oriented UX (
 link: https://www.ooux.com/hi/ooux-and-design-systems
 pricing: 
 tags: 
-- unsorted-bookmarks-1 
+- User experience
+- Article
 categories: 
-- unsorted 
+- Design systems
 ---
 
-In this article, Sophia V. Prater explains how Object-Oriented UX (OOUX) can be used to improve design systems.
+In this article, Sophia V. Prater explains how Object-Oriented UX ([OOUX](https://www.ooux.com/)) can be used to improve design systems.

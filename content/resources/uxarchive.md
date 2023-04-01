@@ -5,12 +5,11 @@ description: UXArchive the world's largest library of mobile user flows. Be insp
 link: https://uxarchive.com/
 pricing:
 tags: 
-- Examples
 - Research
-- UI examples
 - Flows
-categories:
 - Inspiration
+categories:
+- Design
 ---
 
 UXArchive the world's largest library of mobile user flows. Be inspired to design the best user experiences.

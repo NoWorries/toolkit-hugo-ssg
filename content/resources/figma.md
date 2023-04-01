@@ -10,7 +10,7 @@ tags:
 - Prototyping
 - UI design
 categories:
-- Tools
+- Design
 ---
 
 Build better products as a team. Design, prototype, and gather feedback all in one place with Figma

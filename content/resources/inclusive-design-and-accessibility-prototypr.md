@@ -5,9 +5,11 @@ description: A comprehensive guide to inclusive design and accessibility, coveri
 link: https://blog.prototypr.io/inclusive-design-and-accessibility-50718a3ac768
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Accessibility
+- Color
+- Typography
 categories: 
-- unsorted 
+- Design
 ---
 
 A comprehensive guide to inclusive design and accessibility, covering topics such as color contrast, typography, and user testing.

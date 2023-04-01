@@ -5,9 +5,10 @@ description: Data Viz Project is a collection of data visualizations to inspire 
 link: https://datavizproject.com/
 pricing: 
 tags: 
-- unsorted-bookmarks-1 
+- Data Viz
+- Charts
 categories: 
-- unsorted 
+- Design 
 ---
 
 Data Viz Project is a collection of data visualizations to inspire and inform, with examples of different types of charts, graphs, and diagrams.

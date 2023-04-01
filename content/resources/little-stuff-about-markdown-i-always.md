@@ -5,9 +5,10 @@ description: This article covers some of the lesser-known aspects of Markdown th
 link: https://css-tricks.com/little-stuff-markdown-always-forget-google/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Markdown
+- Article
 categories: 
-- unsorted 
+- Development 
 ---
 
 This article covers some of the lesser-known aspects of Markdown that are easy to forget.

@@ -5,9 +5,11 @@ description: A showcase of accessible websites and applications, highlighting th
 link: https://a11ywins.tumblr.com/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Showcase
+- Accessibility
+- Collection
 categories: 
-- unsorted 
+- Design 
 ---
 
 A showcase of accessible websites and applications, highlighting the benefits of accessible design.

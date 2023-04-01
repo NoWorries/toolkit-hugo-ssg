@@ -7,8 +7,9 @@ tags:
 - Examples
 - Research
 - UI examples
-categories:
 - Inspiration
+categories:
+- Design
 ---
 
 

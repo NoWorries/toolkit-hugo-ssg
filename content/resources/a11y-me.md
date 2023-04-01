@@ -5,9 +5,11 @@ description: A website dedicated to accessibility and inclusive design.
 link: https://a11y.me/
 pricing: 
 tags: 
-- unsorted-bookmarks-1 
+- Accessibility
+- Inclusion
+- - Collection
 categories: 
-- unsorted 
+- Design 
 ---
 
 A website dedicated to accessibility and inclusive design.

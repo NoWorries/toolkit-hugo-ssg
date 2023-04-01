@@ -6,10 +6,10 @@ link: https://component.gallery
 tags: 
 - Examples
 - Gallery
-- Design system
+- Design systems
 - Components
 categories:
-- Design System
+- Design systems
 ---
 
 Designed to be a reference for anyone building component-based user interfaces, The Component Gallery is an up-to-date repository of interface components based on examples from the world of design systems.

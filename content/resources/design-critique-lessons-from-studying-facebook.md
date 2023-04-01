@@ -5,9 +5,10 @@ description: This article provides insights into how Facebook designers conduct 
 link: https://uxdesign.cc/debugging-your-design-critique-2f002acb50cf
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Critiques
+- Article
 categories: 
-- unsorted 
+- Design
 ---
 
 This article provides insights into how Facebook designers conduct design critiques and offers valuable lessons that designers can learn from them.

@@ -5,9 +5,10 @@ description: A collection of mobile accessibility resources from Larene Lg.
 link: https://medium.com/@larenelg/mobile-accessibility-resources-dab97a739080
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Accessibility
+- Collection
 categories: 
-- unsorted 
+- Design
 ---
 
 A collection of mobile accessibility resources from Larene Lg.

@@ -5,9 +5,11 @@ description: This article is a tutorial on how to use Storybook to build UI comp
 link: https://medium.com/storybookjs/storybook-composition-af0da9084fba
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Storybook
+- Article
+- Learn
 categories: 
-- unsorted 
+- Development
 ---
 
 This article is a tutorial on how to use Storybook to build UI components.

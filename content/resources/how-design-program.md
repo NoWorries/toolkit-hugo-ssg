@@ -5,9 +5,11 @@ description: This article by zeroheight provides insights into how Design Progra
 link: https://learninghub.zeroheight.com/hc/en-us/articles/12045707347099
 pricing: 
 tags: 
-- unsorted-bookmarks-1 
+- Management
+- Design systems
+- Article
 categories: 
-- unsorted 
+- Design systems 
 ---
 
 This article by zeroheight provides insights into how Design Program Managers can help organizations develop and maintain effective design systems, ensuring consistency and efficiency in design processes.

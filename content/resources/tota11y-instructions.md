@@ -5,9 +5,10 @@ description: Tota11y is a free accessibility testing tool that allows you to tes
 link: https://tota11y.babylontech.co.uk/
 pricing: 
 tags: 
-- unsorted-bookmarks-1 
+- Accessibility
+- Tool
 categories: 
-- unsorted 
+- Development
 ---
 
 Tota11y is a free accessibility testing tool that allows you to test your website's accessibility.

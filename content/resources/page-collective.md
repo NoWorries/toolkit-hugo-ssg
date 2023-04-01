@@ -8,8 +8,9 @@ tags:
 - Research
 - UI examples
 - Landing pages
-categories:
 - Inspiration
+categories:
+- Design
 ---
 
 Get inspired and keep up with the latest landing page design trends

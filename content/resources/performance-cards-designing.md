@@ -5,11 +5,10 @@ description: An article about designing with empathy and meaning on Spotify Desi
 link: https://spotify.design/article/performance-cards-designing-with-empathy-and-meaning
 pricing: 
 tags: 
-- unsorted-bookmarks-1 
 - Empathy
-categories: 
-- unsorted 
 - Article
+categories: 
+- Design
 ---
 
 An article about designing with empathy and meaning on Spotify Design.

@@ -5,9 +5,11 @@ description: An open-source guide to learning web development, covering a wide r
 link: https://guide.freecodecamp.org/
 pricing: 
 tags: 
-- unsorted-bookmarks-1 
+- Education
+- Learn
+- Code
 categories: 
-- unsorted 
+- Development
 ---
 
 An open-source guide to learning web development, covering a wide range of topics and technologies.

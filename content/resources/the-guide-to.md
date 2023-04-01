@@ -5,9 +5,10 @@ description: This guide provides best practices for building accessible web comp
 link: https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft/
 pricing: 
 tags: 
-- unsorted-bookmarks-1 
+- Accessibility
+- Guide 
 categories: 
-- unsorted 
+- Development 
 ---
 
 This guide provides best practices for building accessible web components.

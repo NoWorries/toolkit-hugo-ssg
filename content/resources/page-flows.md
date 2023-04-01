@@ -9,8 +9,9 @@ tags:
 - UI examples
 - Flows
 - Emails
-categories:
 - Inspiration
+categories:
+- Design
 ---
 
 Design better user flows by learning from proven products

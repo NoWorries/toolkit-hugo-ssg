@@ -5,9 +5,11 @@ description: This article examines the user experience of the interface panels o
 link: https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Interface design
+- User interface
+- Article
 categories: 
-- unsorted 
+- Design
 ---
 
 This article examines the user experience of the interface panels on LEGO sets and what can be learned from them.

@@ -9,8 +9,9 @@ tags:
 - Research
 - UI examples
 - Figma
-categories:
 - Inspiration
+categories:
+- Design
 ---
 
 Complex UI elements, usually consisting of multiple UI tokens. Click to browse hundreds of design components and download them for Figma.

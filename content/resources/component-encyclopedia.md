@@ -8,7 +8,7 @@ tags:
 - Storybook
 - Components
 categories:
-- Design System
+- Design systems
 ---
 
 Reference thousands of components from leading UI engineering teams.

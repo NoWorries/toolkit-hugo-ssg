@@ -5,9 +5,10 @@ description: Learn how to make accessible React Native apps in this tutorial fro
 link: https://pusher.com/tutorials/accessible-react-native#accessibility-testing-tools
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Accessibility
+- React Native
 categories: 
-- unsorted 
+- Development 
 ---
 
 Learn how to make accessible React Native apps in this tutorial from Pusher.

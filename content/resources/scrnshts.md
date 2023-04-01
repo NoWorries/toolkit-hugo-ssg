@@ -7,8 +7,9 @@ pricing:
 tags: 
 - Flows
 - UI examples
-categories:
 - Inspiration
+categories:
+- Design
 ---
 
 A hand-picked collection of the finest app store design screenshots

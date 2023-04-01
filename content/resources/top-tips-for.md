@@ -5,9 +5,11 @@ description: Top Tips for Data Accessibility is an article by Material Design th
 link: https://material.io/blog/data-visualization-accessibility
 pricing: 
 tags: 
-- unsorted-bookmarks-1 
+- Accessibility
+- Data viz
+- Charts
 categories: 
-- unsorted 
+- Design 
 ---
 
 Top Tips for Data Accessibility is an article by Material Design that provides practical advice for making data visualizations more accessible to people with disabilities.

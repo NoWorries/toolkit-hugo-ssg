@@ -5,9 +5,10 @@ description: This guide provides an introduction to web accessibility and how to
 link: https://melsumner.github.io/getting-started-with-accessibility
 pricing: 
 tags: 
-- unsorted-bookmarks-1 
+- Accessibility
+- Article
 categories: 
-- unsorted 
+- Design
 ---
 
 This guide provides an introduction to web accessibility and how to get started with making websites more accessible.

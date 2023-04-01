@@ -5,9 +5,11 @@ description: This article is a UI case study that discusses the state styles of 
 link: https://blog.prototypr.io/ui-case-study-state-styles-of-card-component-with-accessibility-in-mind-2f30137c6108
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Accessibility
+- Case study
+- Article
 categories: 
-- unsorted 
+- Design
 ---
 
 This article is a UI case study that discusses the state styles of a card component with accessibility in mind.

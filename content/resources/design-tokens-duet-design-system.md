@@ -5,9 +5,10 @@ description: Learn about design tokens and how they can improve your design syst
 link: https://www.duetds.com/tokens/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Design tokens 
+- Learn
 categories: 
-- unsorted 
+- Design systems 
 ---
 
 Learn about design tokens and how they can improve your design system in this article from Duet Design System.

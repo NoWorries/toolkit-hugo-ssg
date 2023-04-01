@@ -7,7 +7,7 @@ pricing: Open source
 tags: 
 - Checklist
 categories:
-- Design System
+- Design systems
 ---
 
 An open-source checklist to help you plan, build and grow your design system.

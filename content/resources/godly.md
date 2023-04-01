@@ -10,7 +10,7 @@ tags:
 - UI examples
 - Inspiration
 categories:
-- Inspiration
+- Design
 ---
 
 The best web design inspiration on the Interne

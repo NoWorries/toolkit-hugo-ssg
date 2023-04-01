@@ -8,8 +8,9 @@ tags:
 - Examples
 - Research
 - UI examples
-categories:
 - Inspiration
+categories:
+- Design
 ---
 
 Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.
