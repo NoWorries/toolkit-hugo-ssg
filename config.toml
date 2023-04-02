@@ -8,31 +8,13 @@ theme = 'toolkit'
   images = ['/digital-garden-logo.png']
   enableSearch = true
 
+
+
 [menu]
 [[menu.main]]
   name = 'Home'
   url = '/'
   weight = 1
-[[menu.main]]
-  name = 'Content'
-  params.header = true
-  weight = 2
-[[menu.main]]
-  name = 'Articles'
-  url = '/articles'
-  weight = 3
-[[menu.main]]
-  name = 'Resources'
-  url = '/resources'
-  weight = 4
-[[menu.main]]
-  name = 'Portfolio'
-  url = '/portfolio'
-  weight = 5 
-[[menu.main]]
-  name = 'Stack'
-  url = '/stack'
-  weight = 6
 
 [[menu.social]]
   name = 'Twitter'
