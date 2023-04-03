@@ -8,8 +8,6 @@ theme = 'toolkit-theme'
   images = ['/digital-garden-logo.png']
   enableSearch = true
 
-
-
 [menu]
 [[menu.main]]
   name = 'Home'
