@@ -1,10 +1,10 @@
 baseURL = 'https://toolkit.design/'
 languageCode = 'en-nz'
 title = 'Design Toolkit'
-theme = 'toolkit'
+theme = 'toolkit-theme'
 
 [Params]
-  description = "My Digital Garden on the Internet"
+  description = "Toolkit.design"
   images = ['/digital-garden-logo.png']
   enableSearch = true
 
@@ -15,6 +15,18 @@ theme = 'toolkit'
   name = 'Home'
   url = '/'
   weight = 1
+[[menu.main]]
+  name = 'Content'
+  params.header = true
+  weight = 2
+[[menu.main]]
+  name = 'Resources'
+  url = '/resources'
+  weight = 3
+[[menu.main]]
+  name = 'Articles'
+  url = '/articles'
+  weight = 3
 
 [[menu.social]]
   name = 'Twitter'
