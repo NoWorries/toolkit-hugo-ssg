@@ -14,13 +14,9 @@ theme = 'toolkit-theme'
   url = '/'
   weight = 1
 [[menu.main]]
-  name = 'Content'
-  params.header = true
-  weight = 2
-[[menu.main]]
   name = 'Resources'
   url = '/resources'
-  weight = 3
+  weight = 2
 
 [[menu.social]]
   name = 'Twitter'
