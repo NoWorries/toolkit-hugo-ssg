@@ -21,10 +21,6 @@ theme = 'toolkit-theme'
   name = 'Resources'
   url = '/resources'
   weight = 3
-[[menu.main]]
-  name = 'Articles'
-  url = '/articles'
-  weight = 3
 
 [[menu.social]]
   name = 'Twitter'
@@ -32,7 +28,7 @@ theme = 'toolkit-theme'
   weight = 1
 [[menu.social]]
   name = 'RSS'
-  url = '/articles/index.xml'
+  url = '/resources/index.xml'
   weight = 9
 
 
