@@ -1,6 +1,6 @@
 [build]
-publish = "public"  // default hugo build folder
-command = "npm i -g postcss-cli && npm run build" // hugo build command
+publish = "public" 
+command = "npm i -g postcss-cli && npm run build"
 
 [context.production.environment]
 HUGO_VERSION = "0.111.3"
