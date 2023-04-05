@@ -15,6 +15,9 @@
     <p class="text-sm text-slate-500 !mb-8">{{ .Date.Format "January 2, 2006" }}</p>
     {{ end }}
 
+    {{ $link := .Params.link }}
+    <a class="block px-3 py-4 row-span-2" href="{{ $link }}?ref=toolkit.design" target="_blank">View project</a>
+
     {{ with .Params.images }}
     {{- range first 1 . }}
     <img class="rounded max-w-full w-full mb-4" src="{{ . }}" alt="{{ $title }}" />
