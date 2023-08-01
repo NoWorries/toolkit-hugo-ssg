@@ -4,5 +4,5 @@ title: Homepage
 
 # Toolkit.design 👋
 
-**Welcome to my digital garden!**
+**Clearing out my bookmarks and wringing out my brain**
 
