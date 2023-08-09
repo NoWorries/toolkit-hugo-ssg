@@ -3,14 +3,14 @@
 {{ $description := .Description }}
 
 <main class="h-screen w-full">
-  <section class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-7xl mx-auto flex flex-col px-6 py-20">
+  <section class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-7xl mx-auto flex flex-col px-6 py-20 ">
     <a href="{{ .Permalink }}" class="inline-block">
       <h2 class="font-bold text-4xl lg:text-6xl py-1 px-3 mb-4 inline-block">{{ .Title }}</h2>
     </a>
     <div class="space-y-2.5 grid grid-cols-1 lg:grid-cols-2 gap-2 lg:gap-4">
       {{ range $index, $page := .Data.Pages -}}
       {{ $link := .Params.link }}
-      <div class="block px-3 py-4 row-span-2"><a class="" href="{{ $link }}?ref=toolkit.design" target="_blank">
+      <div class="block px-3 py-4 row-span-2 rounded border"><a class="" href="{{ $link }}?ref=toolkit.design" target="_blank">
         {{ $title := .Params.title }}
 
         {{ with .Params.images }}
@@ -30,7 +30,7 @@
           <div class="tags-list mt-2">
               {{- if ge (len .) 1 -}}
                   {{- range . -}}
-                      <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}/" class="bg-blue-100 hover:bg-blue-200 text-blue-800 text-xs font-semibold mr-2 px-2 py-1 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400 inline-flex items-center justify-center">{{ . }}</a>
+                      <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}/" class="bg-indigo-100 hover:bg-indigo-200 text-indigo-800 text-xs font-semibold mr-2 px-2 py-1 rounded dark:bg-gray-700 dark:text-blue-400 border border-blue-400 inline-flex items-center justify-center">{{ . }}</a>
                   {{ end -}}
               {{- end -}}
             </div>

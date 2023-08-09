@@ -1,3 +1,6 @@
+// tailwind.config.js
+const colors = require("tailwindcss/colors");
+
 module.exports = {
   content: [
     "./content/**/*.md",
@@ -9,9 +12,13 @@ module.exports = {
     "./themes/toolkit-theme/layouts/**/*.html",
     "./themes/toolkit-theme/assets/**/*.js",
   ],
-  darkMode: 'class',
+  darkMode: "class",
   theme: {
-    extend: {},
+    extend: {
+    },
   },
-  plugins: [require('@tailwindcss/typography'), require('@tailwindcss/line-clamp')],
-}
+  plugins: [
+    require("@tailwindcss/typography"),
+    require("@tailwindcss/line-clamp"),
+  ],
+};
