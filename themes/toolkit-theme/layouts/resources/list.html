@@ -11,33 +11,37 @@
     </a>
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-2 lg:gap-4">
       {{ range $index, $page := .Data.Pages -}} {{ $link := .Params.link }}
-      <a
-        class="block px-3 py-4 row-span-2 rounded border"
-        href="{{ $link }}?ref=toolkit.design"
-        target="_blank"
-      >
-        {{ $title := .Params.title }} {{ with .Params.images }} {{- range first
-        1 . }}
-        <img
-          class="rounded max-w-full w-full mb-4"
-          src="{{ . }}"
-          alt="{{ $title }}"
-        />
-        {{ end -}} {{ end }}
-        <h3 class="text-lg font-semibold mb-0.5 lg:text-xl 2xl:text-3xl">
-          {{ $title }}
-        </h3>
-        {{ with .Description }}
-        <div class="text-sm text-slate-500 dark:text-slate-400 line-clamp-2">
-          {{ . }}
+      <div class="block px-3 py-4 row-span-2 rounded border border-waikawa-gray-100 hover:border-waikawa-gray-800">
+        <a class="" href="{{ $link }}?ref=toolkit.design" target="_blank">
+          {{ $title := .Params.title }} {{ with .Params.images }} {{- range
+          first 1 . }}
+          <img
+            class="rounded max-w-full w-full mb-4"
+            src="{{ . }}"
+            alt="{{ $title }}"
+          />
+          {{ end -}} {{ end }}
+          <h3 class="text-lg font-semibold mb-0.5 lg:text-xl 2xl:text-3xl">
+            {{ $title }}
+          </h3>
+          {{ with .Description }}
+          <div class="text-sm text-slate-500 dark:text-slate-400 line-clamp-2">
+            {{ . }}
+          </div>
+          {{ end }}
+        </a>
+        {{- with .Params.tags -}}
+        <div class="tags-list mt-4 flex flex-wrap gap-y-2">
+          {{- if ge (len .) 1 -}} {{- range . -}}
+          <a
+            href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}/"
+            class="bg-waikawa-gray-100 hover:bg-waikawa-gray-200 text-waikawa-gray-800 text-xs font-semibold mr-2 px-2 py-1 rounded dark:bg-gray-700 dark:text-waikawa-gray-400 border border-waikawa-gray-200 inline-flex items-center justify-center"
+            >{{ . }}</a
+          >
+          {{ end -}} {{- end -}}
         </div>
-        {{ end }}
-        <p
-          class="underline decoration-slate-500 text-slate-500 underline-offset-8 font-medium mt-2 hover:text-slate-800 hover:decoration-slate-800 dark:hover:text-slate-400 dark:hover:decoration-slate-400"
-        >
-          View Project →
-        </p>
-      </a>
+        {{- end -}}
+      </div>
       {{ if and (eq $index 0) $description }}
       <h3
         class="ml-3 py-8 lg:py-0 lg:mx-2 text-2xl lg:text-5xl font-bold lg:font-medium !leading-tight content-center"
