@@ -20,7 +20,7 @@ theme = 'toolkit-theme'
 
 [[menu.social]]
   name = 'Twitter'
-  url = 'https://twitter.com'
+  url = 'https://twitter.com/joshdesignnz'
   weight = 1
 [[menu.social]]
   name = 'RSS'
