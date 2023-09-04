@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Learn how to make a Gatsby site with multiple content types in this tutorial from Chip Cullen.

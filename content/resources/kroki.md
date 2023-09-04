@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Kroki is a web-based diagramming tool that allows you to generate diagrams from textual descriptions. It supports many different diagram types, including flowcharts, UML diagrams, and network diagrams.

@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Create a color palette from any image using this tool.

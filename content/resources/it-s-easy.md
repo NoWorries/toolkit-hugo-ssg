@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 An article about building DIY Philips Hue LED strips that are better and cheaper than the official products.

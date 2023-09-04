@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 An online tool for creating SVG animations and exporting them as code.

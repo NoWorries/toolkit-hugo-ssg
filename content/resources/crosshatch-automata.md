@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Crosshatch Automata is a generative art tool that uses cellular automata to create intricate crosshatched designs.

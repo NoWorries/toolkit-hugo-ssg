@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A blog post about a simple trick for debugging CSS.

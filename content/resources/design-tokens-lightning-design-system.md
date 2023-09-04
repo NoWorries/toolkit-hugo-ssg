@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 This webpage provides an overview of design tokens, which are a way of centralizing and standardizing design variables for use in design systems and products.

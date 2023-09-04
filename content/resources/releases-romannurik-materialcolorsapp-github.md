@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 The releases page for MaterialColorsApp, a tool for exploring and creating color palettes for material design.

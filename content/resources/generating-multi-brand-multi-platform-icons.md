@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A tutorial on generating multi-brand icons for different platforms using Sketch and Node.js.

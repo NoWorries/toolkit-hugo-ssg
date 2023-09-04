@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Gouache is a design data platform that helps you collect, organize, and share design data.

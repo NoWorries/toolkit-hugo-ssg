@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Appydev is a directory of web development tools and resources. The site includes a variety of tools, such as design resources, code editors, and APIs. Users can search for tools by category or keyword.

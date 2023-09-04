@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Bravo Studio is a platform for turning mobile app designs into fully functional, native iOS and Android apps without coding.

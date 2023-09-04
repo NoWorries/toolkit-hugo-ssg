@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A tool for creating and sharing design systems, with support for Sketch, Figma, and Adobe XD.

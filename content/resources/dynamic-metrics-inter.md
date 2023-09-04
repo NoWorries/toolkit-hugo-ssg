@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A tool for creating and testing typographic scales directly in the browser.

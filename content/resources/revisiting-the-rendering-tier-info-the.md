@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 The Guardian's journey of rebuilding its front-end tech stack and an exploration of the rendering tier.

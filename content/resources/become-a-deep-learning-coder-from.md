@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 This tutorial outlines the steps and resources needed to learn deep learning from scratch and become proficient in it within a year.

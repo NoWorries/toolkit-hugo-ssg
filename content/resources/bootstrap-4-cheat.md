@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 This cheat sheet provides a comprehensive list of Bootstrap 4 classes, including those for the navbar text.

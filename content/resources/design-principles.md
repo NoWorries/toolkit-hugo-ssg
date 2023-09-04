@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Collection of design principles and guidelines for creating effective and user-friendly digital products and services, based on research and best practices from various industries.

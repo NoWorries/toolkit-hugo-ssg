@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects.

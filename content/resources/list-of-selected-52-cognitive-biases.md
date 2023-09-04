@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 This webpage provides a list of 52 cognitive biases, along with brief descriptions and examples of each bias.

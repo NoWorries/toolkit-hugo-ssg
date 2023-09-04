@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 This blog post features 101 inspiring quotes about design and creativity from industry leaders and experts, providing motivation and insights for designers.

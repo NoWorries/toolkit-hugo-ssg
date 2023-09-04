@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Documentation for the typography module of Tachyons, a functional CSS toolkit for quickly building responsive web applications.

@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 This tutorial provides step-by-step instructions for creating your first Adobe panel using HTML, CSS, and JavaScript.

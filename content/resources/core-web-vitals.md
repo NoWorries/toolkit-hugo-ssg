@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Core Web Vitals Checker is a free tool by Calibre that allows you to test your website's Core Web Vitals in one click.

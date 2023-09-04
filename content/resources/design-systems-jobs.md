@@ -5,9 +5,9 @@ description: Design Systems Jobs is a job board focused specifically on design s
 link: https://designsystems.seeker.company/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Jobs
 categories: 
-- unsorted 
+- Design systems
 ---
 
 Design Systems Jobs is a job board focused specifically on design systems and design system-related roles.

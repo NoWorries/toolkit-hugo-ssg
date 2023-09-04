@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A blog post that discusses the design principles and best practices for drag-and-drop interactions in user interfaces.

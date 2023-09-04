@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Sparring is a feedback technique for peer-to-peer coaching that is designed to help team members improve their skills and achieve their goals.

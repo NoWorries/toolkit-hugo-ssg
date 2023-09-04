@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 The official design website of Microsoft, featuring design resources, case studies, and insights into the company's design philosophy.

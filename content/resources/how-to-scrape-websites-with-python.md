@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 This tutorial explains how to use Python and BeautifulSoup to scrape websites and extract data. It provides sample code and practical tips for web scraping.

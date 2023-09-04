@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A platform for discovering and promoting new and innovative products, with the opportunity to earn cryptocurrency rewards.

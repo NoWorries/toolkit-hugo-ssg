@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Design good practices is a web-based resource that provides practical tips and advice for designers. It covers a variety of design topics, including typography, color theory, and layout.

@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 This post provides a list of free and open source data visualization tools that developers can use for their data science and machine learning projects.

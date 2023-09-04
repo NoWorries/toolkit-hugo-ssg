@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A color scale generator that allows users to create custom color palettes, adjust color hue and saturation, and preview how the colors will look in different contexts.

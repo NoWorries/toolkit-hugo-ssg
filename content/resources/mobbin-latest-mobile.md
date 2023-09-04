@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A gallery of the latest mobile design patterns, showcasing best practices and innovative solutions.

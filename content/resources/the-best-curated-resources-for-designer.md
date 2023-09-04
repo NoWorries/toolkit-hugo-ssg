@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Resourcesfordesigner.com is a curated directory of design resources, including tutorials, freebies, and tools. The site features resources for a variety of design disciplines, such as web design, graphic design, and UX design.

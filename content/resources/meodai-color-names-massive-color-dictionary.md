@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A massive dictionary of color names, with over 15,000 unique colors and their corresponding hex codes.

@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Alphredo is a color generator that helps you create custom alpha colors for your designs, with options for adjusting opacity, saturation, and brightness.

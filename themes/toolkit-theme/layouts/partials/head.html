@@ -24,6 +24,10 @@
 
   <link rel="stylesheet" href="{{ "/css/main.css" | absURL}}" />
 
+  {{ $override := resources.Get "css/override.css" }}
+<link href="{{ $override.Permalink }}" rel="stylesheet"/>
+  
+
   <!-- Katex support -->
   {{ if .Params.math }}
     <link

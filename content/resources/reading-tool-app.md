@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A tool developed by Mozilla to simplify web pages for easier reading and to create a better reading experience.

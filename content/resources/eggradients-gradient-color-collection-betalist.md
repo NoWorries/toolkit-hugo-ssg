@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Collection of gradient color schemes for website and app design, including a searchable database and copy-and-paste CSS code.

@@ -8,7 +8,7 @@ tags:
 - unsorted-bookmarks-1 
 - Gatsby
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A starter kit for building a GatsbyJS-powered blog with a hero section on the home page.

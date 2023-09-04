@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Mobbin is a comprehensive directory of mobile and web app designs, featuring user flows, wireframes, screenshots, and prototypes.

@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 This cheat sheet provides a quick reference for using the HTML details and summary elements to create expandable content on web pages.

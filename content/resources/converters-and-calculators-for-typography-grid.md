@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A collection of useful tools for designers and developers, including converters and calculators for typography, grids, colors, and more.

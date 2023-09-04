@@ -1,6 +1,6 @@
 baseURL = 'https://toolkit.design/'
 languageCode = 'en-nz'
-title = 'Design Toolkit'
+title = 'Toolkit.design'
 theme = 'toolkit-theme'
 
 [Params]
@@ -14,7 +14,7 @@ theme = 'toolkit-theme'
   url = '/'
   weight = 1
 [[menu.main]]
-  name = 'Resources'
+  name = 'All resources'
   url = '/resources'
   weight = 2
 

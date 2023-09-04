@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 This webpage provides a cheatsheet of questions for conducting user interviews, as well as follow-up questions to ask for further insights.

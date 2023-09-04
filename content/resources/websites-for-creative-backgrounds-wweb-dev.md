@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A collection of websites that offer various types of creative backgrounds, such as gradient backgrounds, particle animations, and more.

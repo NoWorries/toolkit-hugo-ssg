@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A collection of device templates for Sketch, including various Apple products such as iPhones, iPads, and MacBooks.

@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Adobe Open Source is a website that showcases Adobe's open source initiatives and contributions to the open source community.

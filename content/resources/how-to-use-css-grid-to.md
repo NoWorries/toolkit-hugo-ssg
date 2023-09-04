@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Tutorial on using CSS Grid to mix and match design patterns, a technique that can create unique and visually appealing layouts.

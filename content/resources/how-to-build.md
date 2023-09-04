@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Theme Kit is a website that offers resources and tools for building your own Bootstrap 4 themes. Check it out to learn more.

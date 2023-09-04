@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Electron is an open-source framework for building cross-platform desktop applications using web technologies like HTML, CSS, and JavaScript.

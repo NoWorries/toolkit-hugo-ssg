@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 This tutorial explains how to create animated icons using SVG and JavaScript. It provides sample code and step-by-step instructions for creating 2-state, SVG-powered animated icons.

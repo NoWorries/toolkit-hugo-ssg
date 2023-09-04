@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Instructions and documentation for building ZenXY, an open-source CNC (computer numerical control) machine designed for drawing and plotting on various surfaces using pen or marker.

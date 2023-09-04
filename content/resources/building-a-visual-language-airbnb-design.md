@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 An in-depth look at how Airbnb developed a visual language that reflects its brand identity and helps users understand its products.

@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 This guide provides information about the Argus Eyes platform, which offers tools and services for monitoring and analyzing website performance and user behavior.

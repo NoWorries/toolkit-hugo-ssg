@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A collection of free generators for web designers and developers, including tools for creating icons, colors, gradients, and more.

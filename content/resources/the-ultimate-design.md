@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 The Ultimate Design Systems Resources List is a comprehensive list of design system tools, resources and tutorials.

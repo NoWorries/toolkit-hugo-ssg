@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Simple.css is a minimal, classless CSS framework that provides a basic set of styles for common HTML elements. It's designed to be lightweight and easy to use.

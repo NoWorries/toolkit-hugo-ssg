@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A roundup of various color tools for designers, including color palette generators, gradient tools, and color scheme pickers.

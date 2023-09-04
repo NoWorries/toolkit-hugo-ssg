@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 This tutorial demonstrates how to add sort and filter functionality to HTML tables using List.js, a powerful and flexible JavaScript library.

@@ -5,9 +5,10 @@ description: This is a curated list of design systems, style guides, and pattern
 link: https://github.com/alexpate/awesome-design-systems
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Design systems
+- Resources
 categories: 
-- unsorted 
+- Design systems 
 ---
 
 This is a curated list of design systems, style guides, and pattern libraries from around the web, with a focus on open-source projects.

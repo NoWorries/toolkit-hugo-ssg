@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Descript is a podcast and video editing software that uses AI to transcribe audio and video files, allowing you to edit the content by editing the text.

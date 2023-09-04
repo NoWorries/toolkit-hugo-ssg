@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 This Medium article provides a list of top 10 CSS articles for the month of June 2018, curated by Mybridge.

@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 The Beginner's Guide to React is a video tutorial series that teaches beginners the basics of React, a JavaScript library for building user interfaces.

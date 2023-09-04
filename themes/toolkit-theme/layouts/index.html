@@ -1,30 +1,35 @@
 {{ define "main" }}
 
-<main class="">
-  <div
-    class="px-6 py-20 w-full lg:w-[580px] mx-auto prose dark:prose-invert h-fit prose-img:mx-auto"
+<main class="h-screen overflow-y-auto w-full">
+  <section
+    class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-7xl mx-auto flex flex-col px-6 pt-20 pb-10 mb-10"
   >
+    <h1 class="font-bold text-4xl lg:text-6xl py-1 px-3 mb-4 inline-block">
+    {{ partial "svg" "box-iso" }} {{ .Title }}
+    </h1>
     {{ .Content }}
-  </div>
+  </section>
 
   <section
-    class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-7xl mx-auto flex flex-col px-6 py-20"
+    class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-7xl mx-auto flex flex-col px-6 pb-20 pt-10"
   >
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-2 lg:gap-4">
       {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
 
-      <div class="block px-3 py-4 row-span-2 rounded border border-blue-400">
-        <a class="" href="{{.Permalink}}" target="_blank">
-          <h3 class="text-lg font-semibold mb-0.5 lg:text-xl 2xl:text-3xl">
-            {{.Title}}
-          </h3>
-          {{ with .Description }}
-          <div class="text-sm text-slate-500 dark:text-slate-400 line-clamp-2">
-            {{ . }}
-          </div>
-          {{ end }}
-        </a>
-      </div>
+      <a
+        class="px-3 py-4 block row-span-2 rounded border border-waikawa-gray-400"
+        href="{{.Permalink}}"
+        target="_blank"
+      >
+        <h3 class="text-lg font-semibold mb-0.5 lg:text-xl 2xl:text-3xl">
+          {{.Title}}
+        </h3>
+        {{ with .Description }}
+        <div class="text-sm text-slate-500 dark:text-slate-400 line-clamp-2">
+          {{ . }}
+        </div>
+        {{ end }}
+      </a>
       {{end}}
     </div>
   </section>

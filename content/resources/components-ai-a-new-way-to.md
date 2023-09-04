@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Components AI is a web-based tool that allows you to explore and experiment with generative design systems. It provides a library of design elements that can be combined and customized to create unique designs.

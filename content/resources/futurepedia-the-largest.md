@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Futurepedia is the largest directory of AI tools that helps you discover, evaluate and use the right AI tool to grow your business.

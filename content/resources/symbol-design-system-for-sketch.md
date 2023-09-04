@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Symbol is a design system for Sketch that includes a library of customizable UI components and a set of design guidelines.

@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A tool that generates abstract, colorful backgrounds that can be used for various design projects, such as website backgrounds, social media graphics, and more.

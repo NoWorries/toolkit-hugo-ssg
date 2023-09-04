@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 MJML is a responsive email framework that aims to simplify the way designers and developers create responsive emails.

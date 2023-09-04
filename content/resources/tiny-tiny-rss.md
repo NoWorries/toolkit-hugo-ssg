@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Free and open source RSS feed reader that allows users to subscribe to, organize, and read RSS feeds from various sources on a web browser or mobile device.

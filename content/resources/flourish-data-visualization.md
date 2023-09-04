@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Flourish is a platform for creating and sharing data visualizations and interactive stories, with a library of customizable templates and charts.

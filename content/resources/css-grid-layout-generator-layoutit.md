@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A simple tool for generating CSS grid layouts without writing any code, with drag-and-drop functionality and responsive options.

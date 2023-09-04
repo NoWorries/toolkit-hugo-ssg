@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Collection of open-source web snippets, including HTML, CSS, and JavaScript code snippets, that can speed up development.

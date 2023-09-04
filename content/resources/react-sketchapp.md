@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 This Github repository provides information and resources for using React Sketchapp, a library for building Sketch designs with React components.

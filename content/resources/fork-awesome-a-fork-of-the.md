@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A community-driven fork of the original Font Awesome project, providing a wide range of icons for use in web projects.

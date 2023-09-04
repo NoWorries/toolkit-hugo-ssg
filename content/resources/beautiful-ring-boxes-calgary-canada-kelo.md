@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Kelo Designs creates beautiful, handmade ring boxes using a variety of natural materials. Each box is unique and can be customized to suit your style and needs.

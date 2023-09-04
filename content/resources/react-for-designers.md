@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 React for Designers is a tutorial series that teaches designers how to use React to build interfaces for web and mobile applications.

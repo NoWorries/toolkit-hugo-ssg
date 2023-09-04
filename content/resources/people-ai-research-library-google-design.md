@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 This webpage features the People + AI Research library, which contains resources and research on designing and developing artificial intelligence systems that are ethical, responsible, and human-centered.

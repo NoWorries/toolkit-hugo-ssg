@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 News section of An Event Apart, a web design and development conference series. Provides video recordings of keynote presentations and talks on various web-related topics.

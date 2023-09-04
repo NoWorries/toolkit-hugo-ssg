@@ -1,7 +1,5 @@
 ---
-title: Homepage
+title: Toolkit.design
 ---
 
-# Toolkit.design
-
-**Clearing out my bookmarks and wringing out my brain**
+Years of bookmarks finally being organised

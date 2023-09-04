@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Article that explains the importance of web performance and how Gatsby, a popular React-based framework, achieves fast loading times.

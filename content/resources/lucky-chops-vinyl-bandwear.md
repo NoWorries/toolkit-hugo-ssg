@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 The online store for Lucky Chops, a brass funk band from New York, featuring various merchandise such as vinyl records, t-shirts, and more.

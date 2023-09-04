@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A collection of 30 free mesh gradient backgrounds that can be used for various design projects, such as website backgrounds, social media graphics, and more.

@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Reimagining Design Systems at Spotify is an article that explains how Spotify designed a new design system to better serve its users.

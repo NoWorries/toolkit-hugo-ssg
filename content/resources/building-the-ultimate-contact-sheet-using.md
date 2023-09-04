@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Tutorial on how to create a comprehensive contact sheet using Adobe InDesign, including various customization options and shortcuts.

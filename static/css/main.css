@@ -1253,6 +1253,14 @@ video {
   margin-bottom: 0.25rem;
 }
 
+.mb-10 {
+  margin-bottom: 2.5rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
 .mb-0\.5 {
   margin-bottom: 0.125rem;
 }
@@ -1265,12 +1273,8 @@ video {
   margin-bottom: 2rem !important;
 }
 
-.mb-4 {
-  margin-bottom: 1rem;
-}
-
-.mt-2 {
-  margin-top: 0.5rem;
+.mt-4 {
+  margin-top: 1rem;
 }
 
 .mr-2 {
@@ -1289,8 +1293,16 @@ video {
   margin-bottom: 0.5rem !important;
 }
 
+.mt-2 {
+  margin-top: 0.5rem;
+}
+
 .mb-2 {
   margin-bottom: 0.5rem;
+}
+
+.mt-5 {
+  margin-top: 1.25rem;
 }
 
 .\!mb-4 {
@@ -1313,8 +1325,8 @@ video {
   display: inline-block;
 }
 
-.\!inline-block {
-  display: inline-block !important;
+.inline {
+  display: inline;
 }
 
 .flex {
@@ -1333,14 +1345,14 @@ video {
   display: none;
 }
 
+.h-screen {
+  height: 100vh;
+}
+
 .h-fit {
   height: -webkit-fit-content;
   height: -moz-fit-content;
   height: fit-content;
-}
-
-.h-screen {
-  height: 100vh;
 }
 
 .h-full {
@@ -1496,6 +1508,10 @@ video {
 
 .gap-5 {
   gap: 1.25rem;
+}
+
+.gap-y-2 {
+  row-gap: 0.5rem;
 }
 
 .space-y-2\.5 > :not([hidden]) ~ :not([hidden]) {
@@ -2069,9 +2085,19 @@ video {
   border-color: rgb(120 220 202 / 1);
 }
 
-.border-blue-400 {
+.border-waikawa-gray-400 {
   --tw-border-opacity: 1;
-  border-color: rgb(96 165 250 / var(--tw-border-opacity));
+  border-color: rgb(156 182 221 / var(--tw-border-opacity));
+}
+
+.border-waikawa-gray-100 {
+  --tw-border-opacity: 1;
+  border-color: rgb(231 240 248 / var(--tw-border-opacity));
+}
+
+.border-waikawa-gray-200 {
+  --tw-border-opacity: 1;
+  border-color: rgb(211 226 242 / var(--tw-border-opacity));
 }
 
 .border-slate-200 {
@@ -2612,9 +2638,9 @@ video {
   background-color: rgb(120 220 202 / 1);
 }
 
-.bg-indigo-100 {
+.bg-waikawa-gray-100 {
   --tw-bg-opacity: 1;
-  background-color: rgb(224 231 255 / var(--tw-bg-opacity));
+  background-color: rgb(231 240 248 / var(--tw-bg-opacity));
 }
 
 .bg-slate-50 {
@@ -2671,9 +2697,9 @@ video {
   padding-right: 1.5rem;
 }
 
-.py-20 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+.py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
 }
 
 .px-3 {
@@ -2686,9 +2712,9 @@ video {
   padding-bottom: 1rem;
 }
 
-.py-1 {
-  padding-top: 0.25rem;
-  padding-bottom: 0.25rem;
+.py-20 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 }
 
 .px-2 {
@@ -2731,6 +2757,22 @@ video {
   padding-bottom: 0.375rem;
 }
 
+.pt-20 {
+  padding-top: 5rem;
+}
+
+.pb-10 {
+  padding-bottom: 2.5rem;
+}
+
+.pb-20 {
+  padding-bottom: 5rem;
+}
+
+.pt-10 {
+  padding-top: 2.5rem;
+}
+
 .pl-12 {
   padding-left: 3rem;
 }
@@ -2755,20 +2797,17 @@ video {
   padding-bottom: 1.5rem;
 }
 
-.pt-20 {
-  padding-top: 5rem;
-}
-
-.pb-10 {
-  padding-bottom: 2.5rem;
-}
-
 .text-center {
   text-align: center;
 }
 
 .text-right {
   text-align: right;
+}
+
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
 }
 
 .text-lg {
@@ -2781,11 +2820,6 @@ video {
   line-height: 1.25rem;
 }
 
-.text-4xl {
-  font-size: 2.25rem;
-  line-height: 2.5rem;
-}
-
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
@@ -2794,11 +2828,6 @@ video {
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
-}
-
-.\!text-sm {
-  font-size: 0.875rem !important;
-  line-height: 1.25rem !important;
 }
 
 .text-7xl {
@@ -2811,20 +2840,16 @@ video {
   line-height: 1.75rem;
 }
 
-.font-semibold {
-  font-weight: 600;
-}
-
 .font-bold {
   font-weight: 700;
 }
 
-.font-medium {
-  font-weight: 500;
+.font-semibold {
+  font-weight: 600;
 }
 
-.\!font-normal {
-  font-weight: 400 !important;
+.font-medium {
+  font-weight: 500;
 }
 
 .uppercase {
@@ -3363,9 +3388,9 @@ video {
   color: rgb(100 116 139 / var(--tw-text-opacity));
 }
 
-.text-indigo-800 {
+.text-waikawa-gray-800 {
   --tw-text-opacity: 1;
-  color: rgb(55 48 163 / var(--tw-text-opacity));
+  color: rgb(74 89 137 / var(--tw-text-opacity));
 }
 
 .text-slate-300 {
@@ -3388,17 +3413,13 @@ video {
   color: rgb(30 41 59 / var(--tw-text-opacity));
 }
 
-.\!text-slate-500 {
-  --tw-text-opacity: 1 !important;
-  color: rgb(100 116 139 / var(--tw-text-opacity)) !important;
+.text-slate-600 {
+  --tw-text-opacity: 1;
+  color: rgb(71 85 105 / var(--tw-text-opacity));
 }
 
 .underline {
   text-decoration-line: underline;
-}
-
-.\!no-underline {
-  text-decoration-line: none !important;
 }
 
 .decoration-slate-500 {
@@ -3518,9 +3539,14 @@ html.dark * {
   scrollbar-color: #94a3b8 #475569;
 }
 
-.hover\:bg-indigo-200:hover {
+.hover\:border-waikawa-gray-300:hover {
+  --tw-border-opacity: 1;
+  border-color: rgb(185 207 232 / var(--tw-border-opacity));
+}
+
+.hover\:bg-waikawa-gray-200:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(199 210 254 / var(--tw-bg-opacity));
+  background-color: rgb(211 226 242 / var(--tw-bg-opacity));
 }
 
 .hover\:bg-slate-200:hover {
@@ -3536,11 +3562,6 @@ html.dark * {
 .hover\:text-slate-800:hover {
   --tw-text-opacity: 1;
   color: rgb(30 41 59 / var(--tw-text-opacity));
-}
-
-.hover\:\!text-slate-700:hover {
-  --tw-text-opacity: 1 !important;
-  color: rgb(51 65 85 / var(--tw-text-opacity)) !important;
 }
 
 .hover\:decoration-slate-800:hover {
@@ -3616,9 +3637,9 @@ html.dark * {
   color: rgb(148 163 184 / var(--tw-text-opacity));
 }
 
-.dark .dark\:text-blue-400 {
+.dark .dark\:text-waikawa-gray-400 {
   --tw-text-opacity: 1;
-  color: rgb(96 165 250 / var(--tw-text-opacity));
+  color: rgb(156 182 221 / var(--tw-text-opacity));
 }
 
 .dark .dark\:text-slate-700 {
@@ -3674,11 +3695,6 @@ html.dark * {
 .dark .dark\:hover\:text-slate-400:hover {
   --tw-text-opacity: 1;
   color: rgb(148 163 184 / var(--tw-text-opacity));
-}
-
-.dark .dark\:hover\:\!text-slate-400:hover {
-  --tw-text-opacity: 1 !important;
-  color: rgb(148 163 184 / var(--tw-text-opacity)) !important;
 }
 
 .dark .dark\:hover\:decoration-slate-400:hover {
@@ -3988,14 +4004,14 @@ html.dark * {
     padding-bottom: 0px;
   }
 
-  .lg\:text-xl {
-    font-size: 1.25rem;
-    line-height: 1.75rem;
-  }
-
   .lg\:text-6xl {
     font-size: 3.75rem;
     line-height: 1;
+  }
+
+  .lg\:text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
   }
 
   .lg\:text-5xl {

@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A blog post that recommends 10 Chrome extensions that can help designers improve their workflow and productivity.

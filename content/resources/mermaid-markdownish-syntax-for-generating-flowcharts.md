@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Mermaid is a simple markdown-like script language for generating charts from text via JavaScript. It supports many different chart types.

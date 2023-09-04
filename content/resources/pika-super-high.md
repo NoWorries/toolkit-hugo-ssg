@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Pika is a collection of high-quality illustrations and animations that you can use in your web and app designs, with a focus on inclusivity and diversity.

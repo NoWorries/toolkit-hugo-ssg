@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Dapps is a website that provides a curated collection of decentralized apps (dapps) built on blockchain technology.

@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Ajeeb is a tool that generates random design prompts to help designers overcome creative blocks and generate new ideas.

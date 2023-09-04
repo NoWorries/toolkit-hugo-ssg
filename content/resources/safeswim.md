@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Safeswim is a website that provides real-time information on water quality and beach conditions for Auckland, New Zealand.

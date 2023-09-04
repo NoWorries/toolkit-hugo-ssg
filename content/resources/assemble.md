@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Assemble is a static site generator that helps you build websites quickly and easily using HTML, CSS, and JavaScript.

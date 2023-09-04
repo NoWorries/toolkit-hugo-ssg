@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Move Mirror is an AI Experiment that lets you use your body to control a screen full of shapes and colors.

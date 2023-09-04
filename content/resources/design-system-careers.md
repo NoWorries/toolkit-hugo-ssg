@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Design System Careers is a job board focused on design systems jobs and roles, including design system managers, designers, and developers.

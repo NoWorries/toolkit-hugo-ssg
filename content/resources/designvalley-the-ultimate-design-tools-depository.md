@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A curated list of various design tools and resources, including color palette generators, icon libraries, font resources, and more.

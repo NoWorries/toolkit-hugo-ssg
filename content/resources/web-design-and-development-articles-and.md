@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 24 ways is an online advent calendar for web designers and developers. Every day in December, a new article or tutorial is published.

@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Powerful toolkit for building websites with beautiful typography, including pre-designed themes that can be customized to fit any design.

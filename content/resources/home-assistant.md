@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Home Assistant is an open-source home automation platform that allows users to control and automate a variety of smart home devices.

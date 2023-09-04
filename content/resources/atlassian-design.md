@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Atlassian Design is the official design language used across all Atlassian products, with a focus on consistency, clarity, and usability.

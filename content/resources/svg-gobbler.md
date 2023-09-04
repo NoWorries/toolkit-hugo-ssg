@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 SVG Gobbler is a tool that extracts SVG images from websites, allowing you to reuse and edit them for your own designs.

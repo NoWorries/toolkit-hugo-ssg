@@ -8,7 +8,7 @@ tags:
 - unsorted-bookmarks-1 
 - Bundler
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 An introduction to ParcelJS, a fast and simple web application bundler that requires no configuration.

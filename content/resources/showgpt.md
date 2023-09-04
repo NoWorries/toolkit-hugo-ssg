@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 showGPT is a collection of demonstrations and examples that showcase the capabilities of GPT-3, the largest language model currently available.

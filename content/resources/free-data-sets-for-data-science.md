@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 This post provides a list of free data sets that data scientists can use for their machine learning and data science projects, including data on climate, finance, and social media.

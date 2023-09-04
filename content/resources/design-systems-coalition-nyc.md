@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Official website for Design Systems Coalition in New York City. Provides information about upcoming events, talks, and workshops related to design systems.

@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Storybook Controls is a plugin for Storybook, a tool for developing UI components. The plugin allows users to edit UI components in real time, without writing any code. The plugin supports a variety of UI libraries, such as React, Vue, and Angular.

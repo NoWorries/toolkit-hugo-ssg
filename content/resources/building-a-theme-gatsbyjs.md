@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Learn how to build a theme that is extendable with Gatsby plugin Theme UI in this tutorial from GatsbyJS.

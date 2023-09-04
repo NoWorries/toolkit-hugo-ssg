@@ -8,7 +8,7 @@ tags:
 - unsorted-bookmarks-1 
 - Bundler
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Official website for Parcel, a web application bundler that is fast

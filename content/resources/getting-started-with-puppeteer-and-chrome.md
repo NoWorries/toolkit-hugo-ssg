@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A tutorial that explains how to use Puppeteer and Chrome Headless for web scraping and automation.

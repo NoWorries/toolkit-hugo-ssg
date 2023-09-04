@@ -5,9 +5,10 @@ description: Presentation on how to use Sketch, a popular design tool, to create
 link: https://speakerdeck.com/lauravandoore/building-a-scalable-design-system-with-sketch
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Sketch
+- Tools
 categories: 
-- unsorted 
+- Design
 ---
 
 Presentation on how to use Sketch, a popular design tool, to create a scalable design system for web and mobile applications.

@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-2 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 A blog post that discusses how users react to non-native UI and the importance of considering cultural factors when designing UI.

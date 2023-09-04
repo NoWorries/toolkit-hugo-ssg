@@ -7,7 +7,7 @@ pricing:
 tags: 
 - unsorted-bookmarks-1 
 categories: 
-- unsorted 
+- Unsorted 
 ---
 
 Official documentation for GatsbyJS, a React-based framework for building fast, modern websites and applications.
