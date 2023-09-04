@@ -5,9 +5,9 @@ description: A design system and component library for building user interfaces 
 link: https://polaris.shopify.com/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Documentation
 categories: 
-- Unsorted 
+- Design systems
 ---
 
 A design system and component library for building user interfaces in Shopify.

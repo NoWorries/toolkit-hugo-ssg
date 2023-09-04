@@ -5,9 +5,9 @@ description: This tutorial provides an introduction to design systems, including
 link: https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Article
 categories: 
-- Unsorted 
+- Design systems
 ---
 
 This tutorial provides an introduction to design systems, including what they are, why they are important, and how to create one.

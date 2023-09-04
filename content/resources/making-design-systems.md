@@ -5,7 +5,6 @@ description: “Making Design Systems Public” is an article by Dan Mall that e
 link: https://danmall.com/posts/making-design-systems-public/
 pricing: 
 tags: 
-- Design systems
 - Article
 categories: 
 - Design systems 

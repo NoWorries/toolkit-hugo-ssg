@@ -5,9 +5,11 @@ description: A color palette generator that allows you to create, save and share
 link: https://leonardocolor.io/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Accessibility
+- Color
+- Tool
 categories: 
-- Unsorted 
+- Design
 ---
 
 A color palette generator that allows you to create, save and share your color palettes.

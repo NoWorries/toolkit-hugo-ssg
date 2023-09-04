@@ -5,9 +5,10 @@ description: A set of tools and resources for creating and maintaining design sy
 link: http://patternlab.io/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Tools
+- Resources
 categories: 
-- Unsorted 
+- Design systems
 ---
 
 A set of tools and resources for creating and maintaining design systems based on Atomic Design principles, including templates, style guides, and design assets.

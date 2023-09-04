@@ -5,7 +5,6 @@ description: This article introduces Design Systems CLI, a tool for building des
 link: https://medium.com/intuit-engineering/open-sourcing-design-systems-cli-ac9e3449100d
 pricing: 
 tags: 
-- Design systems
 - CLI
 - Article
 categories: 

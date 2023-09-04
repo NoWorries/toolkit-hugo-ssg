@@ -5,9 +5,9 @@ description: The Ultimate Design Systems Resources List is a comprehensive list 
 link: https://designstrategy.guide/design-management/the-ultimate-design-systems-resources-list/
 pricing: 
 tags: 
-- unsorted-bookmarks-1 
+- Resources
 categories: 
-- Unsorted 
+- Design systems
 ---
 
 The Ultimate Design Systems Resources List is a comprehensive list of design system tools, resources and tutorials.

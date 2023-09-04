@@ -5,9 +5,9 @@ description: Symbol is a design system for Sketch that includes a library of cus
 link: https://symboldesign.co/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Sketch
 categories: 
-- Unsorted 
+- Design systems
 ---
 
 Symbol is a design system for Sketch that includes a library of customizable UI components and a set of design guidelines.

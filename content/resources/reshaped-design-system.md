@@ -5,9 +5,10 @@ description: Reshaped is a Figma plugin that allows you to build and manage a de
 link: https://reshaped.so/figma-plugin
 pricing: 
 tags: 
-- unsorted-bookmarks-1 
+- Figma
+- Tools
 categories: 
-- Unsorted 
+- Design systems
 ---
 
 Reshaped is a Figma plugin that allows you to build and manage a design system with React.

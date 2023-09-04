@@ -5,9 +5,10 @@ description: A tool that generates color palettes based on deep learning algorit
 link: https://colors.eva.design/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Tools
+- Color
 categories: 
-- Unsorted 
+- Design 
 ---
 
 A tool that generates color palettes based on deep learning algorithms, which analyzes millions of color combinations to produce unique and aesthetically pleasing results.

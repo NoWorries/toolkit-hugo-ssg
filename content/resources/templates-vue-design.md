@@ -5,9 +5,9 @@ description: Vue Design System offers templates for building web applications wi
 link: https://vueds.com/example/#!/Templates
 pricing: 
 tags: 
-- unsorted-bookmarks-1 
+- Documentation
 categories: 
-- Unsorted 
+- Design systems
 ---
 
 Vue Design System offers templates for building web applications with Vue.js. Check out their website to learn more.

@@ -6,7 +6,6 @@ link: https://learninghub.zeroheight.com/hc/en-us/articles/12045707347099
 pricing: 
 tags: 
 - Management
-- Design systems
 - Article
 categories: 
 - Design systems 

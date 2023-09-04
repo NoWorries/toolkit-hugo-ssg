@@ -5,9 +5,9 @@ description: A collection of design system examples, articles, and tools for des
 link: https://designsystemsrepo.com/
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Resources
 categories: 
-- Unsorted 
+- Design systems
 ---
 
 A collection of design system examples, articles, and tools for designers and developers.
