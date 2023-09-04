@@ -10,7 +10,7 @@
     </a>
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-2 lg:gap-4">
       {{ range $index, $page := .Data.Pages -}} {{ $link := .Params.link }}
-      <div class="block px-3 py-4 row-span-2 rounded border border-waikawa-gray-100 hover:border-waikawa-gray-300">
+      <div class="block px-3 py-4 row-span-2 rounded border border-waikawa-gray-100 hover:border-waikawa-gray-800">
         <a class="" href="{{ $link }}?ref=toolkit.design" target="_blank">
           {{ $title := .Params.title }} {{ with .Params.images }} {{- range
           first 1 . }}

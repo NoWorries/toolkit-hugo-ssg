@@ -3539,9 +3539,9 @@ html.dark * {
   scrollbar-color: #94a3b8 #475569;
 }
 
-.hover\:border-waikawa-gray-300:hover {
+.hover\:border-waikawa-gray-800:hover {
   --tw-border-opacity: 1;
-  border-color: rgb(185 207 232 / var(--tw-border-opacity));
+  border-color: rgb(74 89 137 / var(--tw-border-opacity));
 }
 
 .hover\:bg-waikawa-gray-200:hover {
