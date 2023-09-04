@@ -4,7 +4,7 @@ title = 'Toolkit.design'
 theme = 'toolkit-theme'
 
 [Params]
-  description = "Toolkit.design"
+  description = "Years of design bookmarks, finally being organised"
   images = ['/digital-garden-logo.png']
   enableSearch = true
 
