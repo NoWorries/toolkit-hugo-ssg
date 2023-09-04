@@ -6,7 +6,7 @@
     "dev:css": "NODE_ENV=development ./node_modules/tailwindcss/lib/cli.js -i ./themes/toolkit-theme/assets/css/tailwind.css -o ./static/css/main.css -w",
     "build:css": "NODE_ENV=production ./node_modules/tailwindcss/lib/cli.js -i ./themes/toolkit-theme/assets/css/tailwind.css -o ./static/css/main.css --minify",
     "develop": "concurrently  \"npm run dev:css\" \"npm run dev:hugo\"",
-    "dev": "hugo serve",
+    "dev:hugo": "hugo serve",
     "build": "npm run build:css && hugo --gc --minify"
   },
   "keywords": [],

@@ -1,73 +1,76 @@
 <aside
-  class="will-change-transform transform transition-transform -translate-x-full fixed md:fixed top-0 left-0 md:translate-x-0 w-3/4 md:w-60 h-screen max-h-screen p-3 overflow-y-auto bg-slate-50 dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 flex flex-col gap-2.5 z-20 sidebar flex-shrink-0">
-  <p class="font-bold mb-5 flex items-center gap-2">
-    <button aria-label="Close sidebar"
-      class="md:hidden menu-trigger-close p-1 rounded text-slate-800 dark:text-slate-50 hover:bg-slate-200 dark:hover:bg-slate-700">
-      {{- partial "icon/closeIcon.html" . -}}
-    </button>
-    <a href="{{ .Site.BaseURL }}" class="px-2">
-      <span>{{ .Site.Title }}</span>
-    </a>
-    <button aria-label="Toggle dark mode"
-      class="dark-mode-toggle p-2 rounded border dark:border-slate-700 hover:bg-slate-200 dark:hover:bg-slate-700">
-      {{- partial "icon/sunIcon.html" . -}}
-    </button>
-  </p>
-
-  {{ $permalink := cond (eq (len .RelPermalink) 1) .RelPermalink (strings.TrimRight "/" .RelPermalink) }}
-  <ul class="list-none flex flex-col gap-1">
-    {{ range .Site.Menus.main }}
-    <li>
-      <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between {{ if .Params.Header }} text-slate-400 font-semibold pb-0 pl-1 border-b cursor-default pointer-events-none {{ else if eq .URL $permalink }} bg-slate-800 text-white dark:bg-slate-50 dark:text-slate-800 dark:selection:bg-slate-400 {{ else }} hover:bg-slate-200 dark:hover:bg-slate-700 {{ end }}"
-        href="{{ if .URL }}{{ .URL }}{{ else }}#{{ end }}" {{ if strings.HasPrefix .URL "http" }} target="_blank"
-        rel="noopener" {{ end }}>
-        <span>{{ .Name }}</span>
-        {{ if strings.HasPrefix .URL "http" }}
-        <span>
-          {{- partial "icon/externalIcon.html" . -}}
-        </span>
-        {{ end }}
+  class="will-change-transform transform transition-transform -translate-x-full h-screen max-h-screen overflow-y-auto fixed md:fixed top-0 left-0 md:translate-x-0 md:w-60 md:ml-1/4 flex flex-col z-20 sidebar p-3 flex flex-shrink-0 bg-slate-50 dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700">
+  <div class="flex-1">
+    <!-- <aside
+    class="will-change-transform transform transition-transform -translate-x-full fixed md:fixed top-0 left-0 md:translate-x-0 w-3/4 md:w-60 h-screen max-h-screen p-3 overflow-y-auto bg-slate-50 dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 flex flex-col gap-2.5 z-20 sidebar flex-shrink-0">   -->
+    <p class="font-bold mb-5 flex items-center gap-2">
+      <button aria-label="Close sidebar"
+        class="md:hidden menu-trigger-close p-1 rounded text-slate-800 dark:text-slate-50 hover:bg-slate-200 dark:hover:bg-slate-700">
+        {{- partial "icon/closeIcon.html" . -}}
+      </button>
+      <a href="{{ .Site.BaseURL }}" class="px-2">
+        <span>{{ .Site.Title }}</span>
       </a>
-    </li>
-    {{ end }}
+      <button aria-label="Toggle dark mode"
+        class="dark-mode-toggle p-2 rounded border dark:border-slate-700 hover:bg-slate-200 dark:hover:bg-slate-700">
+        {{- partial "icon/sunIcon.html" . -}}
+      </button>
+    </p>
 
+    {{ $permalink := cond (eq (len .RelPermalink) 1) .RelPermalink (strings.TrimRight "/" .RelPermalink) }}
+    <ul class="list-none flex flex-col gap-1">
+      {{ range .Site.Menus.main }}
+      <li>
+        <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between {{ if .Params.Header }} text-slate-400 font-semibold pb-0 pl-1 border-b cursor-default pointer-events-none {{ else if eq .URL $permalink }} bg-slate-800 text-white dark:bg-slate-50 dark:text-slate-800 dark:selection:bg-slate-400 {{ else }} hover:bg-slate-200 dark:hover:bg-slate-700 {{ end }}"
+          href="{{ if .URL }}{{ .URL }}{{ else }}#{{ end }}" {{ if strings.HasPrefix .URL "http" }} target="_blank"
+          rel="noopener" {{ end }}>
+          <span>{{ .Name }}</span>
+          {{ if strings.HasPrefix .URL "http" }}
+          <span>
+            {{- partial "icon/externalIcon.html" . -}}
+          </span>
+          {{ end }}
+        </a>
+      </li>
+      {{ end }}
+
+      <li>
+        <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between text-slate-400 font-semibold pb-0 pl-1 border-b cursor-default pointer-events-none"
+          href="/categories">
+          Categories
+        </a>
+      </li>
+      {{range $name, $taxonomy := .Site.Taxonomies.categories}} {{ $cnt := .Count }}
+      {{ with $.Site.GetPage (printf "/categories/%s" $name) }}
+      <li>
+      <a href={{ .RelPermalink }} title="All pages with category {{$name}}" class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between hover:bg-slate-200 dark:hover:bg-slate-700 "><span>{{$name}}</span>
+      <span>{{$cnt}}</span></a>
+      </li>
+      {{end}}
+    {{end}}
     <li>
       <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between text-slate-400 font-semibold pb-0 pl-1 border-b cursor-default pointer-events-none"
-        href="/categories">
-        Categories
+        href="/tags">
+        Tags
       </a>
     </li>
-    {{range $name, $taxonomy := .Site.Taxonomies.categories}} {{ $cnt := .Count }}
-	  {{ with $.Site.GetPage (printf "/categories/%s" $name) }}
-    <li>
-		<a href={{ .RelPermalink }} title="All pages with category {{$name}}" class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between hover:bg-slate-200 dark:hover:bg-slate-700 "><span>{{$name}}</span>
-		<span>{{$cnt}}</span></a>
-    </li>
-	  {{end}}
-	{{end}}
-  <li>
-    <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between text-slate-400 font-semibold pb-0 pl-1 border-b cursor-default pointer-events-none"
-      href="/tags">
-      Tags
-    </a>
-  </li>
-  {{range $name, $taxonomy := .Site.Taxonomies.tags}} {{ $cnt := .Count }}
-	  {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
-    <li>
-		<a href={{ .RelPermalink }} title="All pages with tag {{$name}}" class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between hover:bg-slate-200 dark:hover:bg-slate-700 "><span>{{$name}}</span>
-		<span>{{$cnt}}</span></a>
-    </li>
-	  {{end}}
-	{{end}}
+    {{range $name, $taxonomy := .Site.Taxonomies.tags}} {{ $cnt := .Count }}
+      {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+      <li>
+      <a href={{ .RelPermalink }} title="All pages with tag {{$name}}" class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between hover:bg-slate-200 dark:hover:bg-slate-700 "><span>{{$name}}</span>
+      <span>{{$cnt}}</span></a>
+      </li>
+      {{end}}
+    {{end}}
 
-</ul>
-
+  </ul>
+</div>
   <div class="flex-1"></div>
 
   {{ if .Site.Params.newsletter }}
   {{- partial "newsletter-widget.html" . -}}
   {{ end }}
-
+<div class="flex-auto ">
   <ul class="list-none flex flex-wrap justify-center gap-1 pt-2 border-t border-slate-200 dark:border-slate-600">
     {{ range .Site.Menus.social }}
     <li>
@@ -103,6 +106,7 @@
     </li>
     {{ end }}
   </ul>
+</div>
 </aside>
 
 <div

@@ -1,34 +1,33 @@
 {{ define "main" }}
 
-<main class="h-screen overflow-y-auto w-full">
-  <div class="px-6 py-20 w-full lg:w-[580px] mx-auto prose dark:prose-invert h-fit prose-img:mx-auto">
+<main class="">
+  <div
+    class="px-6 py-20 w-full lg:w-[580px] mx-auto prose dark:prose-invert h-fit prose-img:mx-auto"
+  >
     {{ .Content }}
   </div>
 
-  <section class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-7xl mx-auto flex flex-col px-6 py-20">
-  
-  <div class="space-y-2.5 grid grid-cols-1 lg:grid-cols-2 gap-2 lg:gap-4">
+  <section
+    class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-7xl mx-auto flex flex-col px-6 py-20"
+  >
+    <div class="space-y-2.5 grid grid-cols-1 lg:grid-cols-2 gap-2 lg:gap-4">
+      {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
 
-  {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
- 
-  
-  <div class="block px-3 py-4 row-span-2"><a class="" href="{{.Permalink}}" target="_blank">
- 
-
-    <h3 class="text-lg font-semibold mb-0.5 lg:text-xl 2xl:text-3xl">{{.Title}}</h3>
-    {{ with .Description }}
-    <div class="text-sm text-slate-500 dark:text-slate-400 line-clamp-2">
-      {{ . }}
+      <div class="block px-3 py-4 row-span-2 rounded border border-blue-400">
+        <a class="" href="{{.Permalink}}" target="_blank">
+          <h3 class="text-lg font-semibold mb-0.5 lg:text-xl 2xl:text-3xl">
+            {{.Title}}
+          </h3>
+          {{ with .Description }}
+          <div class="text-sm text-slate-500 dark:text-slate-400 line-clamp-2">
+            {{ . }}
+          </div>
+          {{ end }}
+        </a>
+      </div>
+      {{end}}
     </div>
-    {{ end }}
-
-  </a>
-    </div>
-    {{end}}
-
-    </div>
-    </section>
-
+  </section>
 </main>
 
 {{ end }}
