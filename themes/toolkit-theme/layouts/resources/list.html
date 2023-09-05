@@ -4,14 +4,12 @@
   <section
     class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-7xl mx-auto flex flex-col px-6 py-20"
   >
-    <a href="{{ .Permalink }}" class="inline-block">
-      <h2 class="font-bold text-4xl lg:text-6xl py-1 px-3 mb-4 inline-block">
+      <h2 class="font-bold text-4xl lg:text-6xl py-1 px-3 mb-10 inline-block">
         {{ .Title }}
       </h2>
-    </a>
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-2 lg:gap-4">
       {{ range $index, $page := .Data.Pages -}} {{ $link := .Params.link }}
-      <div class="block px-3 py-4 row-span-2 rounded border border-waikawa-gray-100 hover:border-waikawa-gray-800">
+      <div class="block px-3 py-4 row-span-2 rounded border border-waikawa-gray-200 hover:border-waikawa-gray-400 dark:border-waikawa-gray-900 dark:hover:border-waikawa-gray-700 dark:hover:bg-waikawa-gray-950 hover:bg-white hover:shadow-md transition duration-300 ease-in-out ">
         <a class="" href="{{ $link }}?ref=toolkit.design" target="_blank">
           {{ $title := .Params.title }} {{ with .Params.images }} {{- range
           first 1 . }}
@@ -21,11 +19,11 @@
             alt="{{ $title }}"
           />
           {{ end -}} {{ end }}
-          <h3 class="text-lg font-semibold mb-0.5 lg:text-xl 2xl:text-3xl">
+          <h3 class="text-lg font-semibold mb-2.5 lg:text-xl 2xl:text-3xl text-waikawa-gray-900 dark:text-waikawa-gray-300 ">
             {{ $title }}
           </h3>
           {{ with .Description }}
-          <div class="text-sm text-slate-500 dark:text-slate-400 line-clamp-2">
+          <div class="text-sm text-waikawa-gray-700 dark:text-waikawa-gray-400 line-clamp-2">
             {{ . }}
           </div>
           {{ end }}
@@ -35,7 +33,7 @@
           {{- if ge (len .) 1 -}} {{- range . -}}
           <a
             href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}/"
-            class="bg-waikawa-gray-100 hover:bg-waikawa-gray-200 text-waikawa-gray-800 text-xs font-semibold mr-2 px-2 py-1 rounded dark:bg-gray-700 dark:text-waikawa-gray-400 border border-waikawa-gray-200 inline-flex items-center justify-center"
+            class="bg-waikawa-gray-100 hover:bg-waikawa-gray-200 text-waikawa-gray-800 text-xs font-semibold mr-2 px-2 py-1 rounded dark:bg-gray-700 dark:text-waikawa-gray-400 border border-waikawa-gray-200 dark:border-waikawa-gray-800 inline-flex items-center justify-center"
             >{{ . }}</a
           >
           {{ end -}} {{- end -}}

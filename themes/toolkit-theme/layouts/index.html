@@ -3,21 +3,23 @@
 <main class="h-screen overflow-y-auto w-full">
   <section
     class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-7xl mx-auto flex flex-col px-6 pt-20 pb-10 mb-10"
-  >
-    <h1 class="font-bold text-4xl lg:text-6xl py-1 px-3 mb-4 inline-block">
-    {{ partial "svg" "box-iso" }} {{ .Title }}
+  ><!-- {{ partial "svg" "box-iso" }}  -->
+    
+    <h1 class="font-bold text-4xl lg:text-6xl py-1 px-0 mb-4 inline-block dark:text-waikawa-gray-200">🧰 {{ .Title }}
     </h1>
     {{ .Content }}
   </section>
 
   <section
     class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-7xl mx-auto flex flex-col px-6 pb-20 pt-10"
-  >
+  ><h2 class="text-xl font-semibold mb-4 lg:text-xl 2xl:text-3xl">
+    Categories
+  </h2>
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-2 lg:gap-4">
       {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
 
       <a
-        class="px-3 py-4 block row-span-2 rounded border border-waikawa-gray-400"
+        class="px-3 py-4 block row-span-2 rounded bg-white border-color  dark:bg-waikawa-gray-900 shadow-2xl shadow-waikawa-gray-300/50 dark:shadow-waikawa-gray-800/20 hover:shadow-lg hover:shadow-waikawa-gray-300/50 dark:hover:shadow-black/10"
         href="{{.Permalink}}"
         target="_blank"
       >
@@ -25,7 +27,7 @@
           {{.Title}}
         </h3>
         {{ with .Description }}
-        <div class="text-sm text-slate-500 dark:text-slate-400 line-clamp-2">
+        <div class="text-sm text-waikawa-gray-500 dark:text-waikawa-gray-400 line-clamp-2">
           {{ . }}
         </div>
         {{ end }}

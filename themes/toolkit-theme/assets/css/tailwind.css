@@ -3,12 +3,12 @@
 @tailwind utilities;
 
 body {
-  @apply text-slate-900 dark:bg-slate-900 dark:text-slate-50 dark:selection:bg-slate-600;
+  @apply text-waikawa-gray-800 bg-waikawa-gray-50 dark:bg-waikawa-gray-950 dark:text-waikawa-gray-100 dark:selection:bg-waikawa-gray-600;
 }
 
 * {
   scrollbar-width: thin;
-  scrollbar-color: theme("colors.slate.400") theme("colors.slate.200");
+  scrollbar-color: theme("colors.waikawa-gray.400") theme("colors.waikawa-gray.200");
 }
 
 *::-webkit-scrollbar {
@@ -16,20 +16,25 @@ body {
 }
 
 *::-webkit-scrollbar-track {
-  @apply bg-slate-200;
+  @apply bg-waikawa-gray-200;
 }
 *::-webkit-scrollbar-thumb {
-  @apply bg-slate-400;
+  @apply bg-waikawa-gray-400;
   border-radius: 6px;
 }
 
 html.dark *::-webkit-scrollbar-track {
-  @apply bg-slate-600;
+  @apply bg-waikawa-gray-900;
 }
 html.dark *::-webkit-scrollbar-thumb {
-  @apply bg-slate-400;
+  @apply bg-waikawa-gray-600;
 }
 
 html.dark * {
-  scrollbar-color: theme("colors.slate.400") theme("colors.slate.600");
+  scrollbar-color: theme("colors.waikawa-gray.400") theme("colors.waikawa-gray.600");
+}
+
+/* This is how you apply the border-color for both light and dark mode */
+.border-color {
+  @apply border-black dark:border-white;
 }
