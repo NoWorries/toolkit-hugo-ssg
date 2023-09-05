@@ -25,7 +25,7 @@ module.exports = {
         silver: "#ecebff",
         "bubble-gum": "#ff77e9",
         bermuda: "#78dcca",
-        'waikawa-gray': {
+        "waikawa-gray": {
           '50': '#f2f7fb',
           '100': '#e7f0f8',
           '200': '#d3e2f2',
@@ -37,7 +37,7 @@ module.exports = {
           '800': '#4a5989',
           '900': '#414e6e',
           '950': '#262c40',
-      },
+        },
       },
     },
   },
