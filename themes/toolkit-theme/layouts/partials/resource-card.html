@@ -1,14 +1,11 @@
-{{ $link := .Params.link }}
-<div class="flex flex-col block px-3 py-4 row-span-2 rounded border border-waikawa-gray-200 hover:border-waikawa-gray-400 dark:border-waikawa-gray-900 dark:hover:border-waikawa-gray-700 dark:hover:bg-waikawa-gray-950 hover:bg-white hover:shadow-md transition duration-200 ease-in-out">
-    <a class="" href="{{ $link }}?ref=toolkit.design" target="_blank">
-      {{ $title := .Params.title }} {{ with .Params.images }} {{- range
-      first 1 . }}
-      <img
-        class="rounded max-w-full w-full mb-4"
-        src="{{ . }}"
-        alt="{{ $title }}"
-      />
-      {{ end -}} {{ end }}
+{{ $link := .Params.link }} 
+{{ $title := .Params.title }} 
+<div class="flex {{ with .Resources.GetMatch "index_screenshot_*" }}flex-row gap-2{{else}}flex-col px-3 py-4 {{ end }} block row-span-2 rounded border border-waikawa-gray-200 hover:border-waikawa-gray-400 dark:border-waikawa-gray-900 dark:hover:border-waikawa-gray-700 dark:hover:bg-waikawa-gray-950 hover:bg-white hover:shadow-md transition duration-200 ease-in-out">
+  {{ with .Resources.GetMatch "index_screenshot_*" }}
+
+  <div class="flex flex-col gap-2 py-2 px-3 py-4">
+    {{ end }}
+  <a class="flex flex-col" href="{{ $link }}?ref=toolkit.design" target="_blank">
       <h3 class="text-lg font-semibold mb-2.5 lg:text-xl 2xl:text-3xl">
         {{ $title }}
       </h3>
@@ -23,9 +20,10 @@
         {{ . }}
       </div>
       {{ end }}
+      
     </a>
     {{- with .Params.tags -}}
-    <div class="self-end"><div class="tags-list mt-4 flex flex-wrap gap-y-2">
+    <div class=""><div class="tags-list mt-4 flex flex-wrap gap-y-2">
       {{- if ge (len .) 1 -}} {{- range . -}}
       <a
         href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}/"
@@ -35,4 +33,13 @@
       {{ end -}} {{- end -}}
     </div></div>
     {{- end -}}
+   
+      {{ with .Resources.GetMatch "index_screenshot_*" }}
+    </div>
+        <div class="relative w-32 h-32 flex-shrink-0">
+          {{ with .Resize "180x" }}
+            <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" class="object-right">
+          {{ end }}
+        </div>
+      {{ end }}   
   </div>
