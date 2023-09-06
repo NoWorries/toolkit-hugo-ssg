@@ -8,38 +8,10 @@
         {{ .Title }}
       </h2>
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-2 lg:gap-4">
-      {{ range $index, $page := .Data.Pages -}} {{ $link := .Params.link }}
-      <div class="block px-3 py-4 row-span-2 rounded border border-waikawa-gray-200 hover:border-waikawa-gray-400 dark:border-waikawa-gray-900 dark:hover:border-waikawa-gray-700 dark:hover:bg-waikawa-gray-950 hover:bg-white hover:shadow-md transition duration-200 ease-in-out">
-        <a class="" href="{{ $link }}?ref=toolkit.design" target="_blank">
-          {{ $title := .Params.title }} {{ with .Params.images }} {{- range
-          first 1 . }}
-          <img
-            class="rounded max-w-full w-full mb-4"
-            src="{{ . }}"
-            alt="{{ $title }}"
-          />
-          {{ end -}} {{ end }}
-          <h3 class="text-lg font-semibold mb-2.5 lg:text-xl 2xl:text-3xl">
-            {{ $title }}
-          </h3>
-          {{ with .Description }}
-          <div class="text-sm text-waikawa-gray-500 dark:text-waikawa-gray-400 line-clamp-2">
-            {{ . }}
-          </div>
-          {{ end }}
-        </a>
-        {{- with .Params.tags -}}
-        <div class="tags-list mt-4 flex flex-wrap gap-y-2">
-          {{- if ge (len .) 1 -}} {{- range . -}}
-          <a
-            href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}/"
-            class="bg-waikawa-gray-100 hover:bg-waikawa-gray-200 text-waikawa-gray-800 text-xs font-semibold mr-2 px-2 py-1 rounded dark:bg-gray-700 dark:text-waikawa-gray-400 border border-waikawa-gray-200 dark:border-waikawa-gray-800 inline-flex items-center justify-center"
-            >{{ . }}</a
-          >
-          {{ end -}} {{- end -}}
-        </div>
-        {{- end -}}
-      </div>
+      {{ range $index, $page := .Data.Pages -}} 
+
+      {{- partial "resource-card" . -}}
+
       {{ if and (eq $index 0) $description }}
       <h3
         class="ml-3 py-8 lg:py-0 lg:mx-2 text-2xl lg:text-5xl font-bold lg:font-medium !leading-tight content-center"

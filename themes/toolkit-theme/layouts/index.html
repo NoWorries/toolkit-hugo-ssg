@@ -2,7 +2,7 @@
 
 <main class="h-screen overflow-y-auto w-full">
   <section
-    class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-7xl mx-auto flex flex-col px-6 pt-20 pb-10 mb-10"
+    class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-6xl mx-auto flex flex-col px-5 pt-20 py-6 lg:mb-10"
   ><!-- {{ partial "svg" "box-iso" }}  -->
     
     <h1 class="font-bold text-4xl lg:text-6xl py-1 px-0 mb-4 inline-block dark:text-waikawa-gray-200">🧰 {{ .Title }}
@@ -11,10 +11,12 @@
   </section>
 
   <section
-    class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-7xl mx-auto flex flex-col px-6 pb-20 pt-10"
+    class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-6xl mx-auto flex flex-col px-5 py-5"
   ><h2 class="text-xl font-semibold mb-4 lg:text-xl 2xl:text-3xl">
     Categories
   </h2>
+  <i data-duoicon="menu" class="duoicon-primary:text-indigo-600
+  duoicon-secondary:opacity-100 duoicon-secondary:text-indigo-400"></i>
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-2 lg:gap-4">
       {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
 
