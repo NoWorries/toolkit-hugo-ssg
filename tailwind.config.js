@@ -44,11 +44,6 @@ module.exports = {
   plugins: [
     require("@tailwindcss/typography"),
     require("@tailwindcss/line-clamp"),
-  ],
-  safelist: [
-    {
-      pattern:
-        /(bg|text|border)-(transparent|current|white|purple|midnight|metal|tahiti|silver|bermuda)/,
-    },
+    require("duo-icons/plugin"),
   ],
 };
