@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-1 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Google Analytics Academy is a free online learning platform that offers courses to learn about Google Analytics and data analysis.

@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Sparring is a feedback technique for peer-to-peer coaching that is designed to help team members improve their skills and achieve their goals.

@@ -8,6 +8,5 @@ tags:
 - Documentation
 categories: 
 - Design systems
+image: index_screenshot_2023-09-07.png
 ---
-
-This is the introduction page for @design-systems/docs, a comprehensive guide for building design systems.

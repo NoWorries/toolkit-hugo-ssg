@@ -9,6 +9,5 @@ tags:
 - Article
 categories: 
 - Development 
+image: index_screenshot_2023-09-07.png
 ---
-
-This article covers some of the lesser-known aspects of Markdown that are easy to forget.

@@ -10,6 +10,5 @@ tags:
 - Article
 categories: 
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-This article introduces Leonardo, an open source tool for generating color palettes that meet contrast accessibility guidelines.

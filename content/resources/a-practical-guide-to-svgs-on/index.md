@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-A guide to using SVGs for scalable graphics on the web.

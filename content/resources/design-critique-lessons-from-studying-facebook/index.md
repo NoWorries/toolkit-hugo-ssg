@@ -10,6 +10,5 @@ tags:
 - Article
 categories: 
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-This article provides insights into how Facebook designers conduct design critiques and offers valuable lessons that designers can learn from them.

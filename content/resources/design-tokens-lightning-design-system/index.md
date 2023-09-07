@@ -8,6 +8,5 @@ tags:
 - Design tokens
 categories: 
 - Design systems
+image: index_screenshot_2023-09-07.png
 ---
-
-This webpage provides an overview of design tokens, which are a way of centralizing and standardizing design variables for use in design systems and products.

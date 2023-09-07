@@ -9,6 +9,5 @@ tags:
 - Bundler
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-An introduction to ParcelJS, a fast and simple web application bundler that requires no configuration.

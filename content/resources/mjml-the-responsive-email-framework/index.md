@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-MJML is a responsive email framework that aims to simplify the way designers and developers create responsive emails.

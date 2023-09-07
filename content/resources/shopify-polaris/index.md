@@ -8,6 +8,5 @@ tags:
 - Documentation
 categories: 
 - Design systems
+image: index_screenshot_2023-09-07.png
 ---
-
-A design system and component library for building user interfaces in Shopify.

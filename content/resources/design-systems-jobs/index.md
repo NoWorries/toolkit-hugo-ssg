@@ -8,6 +8,5 @@ tags:
 - Jobs
 categories: 
 - Design systems
+image: index_screenshot_2023-09-07.png
 ---
-
-Design Systems Jobs is a job board focused specifically on design systems and design system-related roles.

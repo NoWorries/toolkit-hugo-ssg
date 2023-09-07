@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-A resource library created by Google Design that offers insights, strategies, and case studies on designing digital products and services for users in emerging markets and developing countries.

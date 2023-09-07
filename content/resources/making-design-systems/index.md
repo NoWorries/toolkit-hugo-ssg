@@ -8,6 +8,5 @@ tags:
 - Article
 categories: 
 - Design systems 
+image: index_screenshot_2023-09-07.png
 ---
-
-“Making Design Systems Public” is an article by Dan Mall that explores the benefits and challenges of sharing design systems publicly, and offers practical advice for doing so.

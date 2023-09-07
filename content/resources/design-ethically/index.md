@@ -11,6 +11,5 @@ tags:
 - Accessibility
 categories: 
 - Design 
+image: index_screenshot_2023-09-07.png
 ---
-
-DESIGN ETHICALLY is a blog and community that explores ethical issues in design, including diversity, inclusion, accessibility, and sustainability.

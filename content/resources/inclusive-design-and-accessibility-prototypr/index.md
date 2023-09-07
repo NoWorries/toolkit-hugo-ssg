@@ -10,6 +10,5 @@ tags:
 - Typography
 categories: 
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-A comprehensive guide to inclusive design and accessibility, covering topics such as color contrast, typography, and user testing.

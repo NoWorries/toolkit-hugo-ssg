@@ -9,6 +9,5 @@ tags:
 - Article 
 categories: 
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-This article discusses the evolution of design tools and workflows at Airbnb, and how the design team has adapted to new technologies and changing design needs over time.

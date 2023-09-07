@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-1 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-CSS Border Animations is a tutorial on how to create animated borders with CSS.

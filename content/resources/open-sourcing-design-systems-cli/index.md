@@ -9,6 +9,5 @@ tags:
 - Article
 categories: 
 - Design systems
+image: index_screenshot_2023-09-07.png
 ---
-
-This article introduces Design Systems CLI, a tool for building design systems that is now open source.

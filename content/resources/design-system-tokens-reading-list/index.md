@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-This reading list provides a collection of articles, tutorials, and resources for designing and using design systems and tokens in web development.

@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-This is the GitHub repository for asimov, a tool that automatically excludes development dependencies from Apple Time Machine backups.

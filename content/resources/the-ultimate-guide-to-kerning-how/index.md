@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-A complete guide to kerning, the process of adjusting the spacing between letters in a font, with tips and techniques for creating professional-looking typography.

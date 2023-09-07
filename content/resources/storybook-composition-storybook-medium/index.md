@@ -11,6 +11,5 @@ tags:
 - Learn
 categories: 
 - Development
+image: index_screenshot_2023-09-07.png
 ---
-
-This article is a tutorial on how to use Storybook to build UI components.

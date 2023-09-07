@@ -12,6 +12,5 @@ tags:
 - Checklist 
 categories: 
 - Design 
+image: index_screenshot_2023-09-07.png
 ---
-
-This webpage provides a checklist for designers to ensure their designs comply with WCAG (Web Content Accessibility Guidelines) standards.

@@ -8,6 +8,5 @@ tags:
 - Article
 categories: 
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-This article provides a UX perspective on the fastest way to design a three-level navigation menu for a website.

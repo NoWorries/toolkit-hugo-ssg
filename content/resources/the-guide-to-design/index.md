@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-The Guide to Design is a collection of resources and articles for UX designers, including design tutorials, best practices, and case studies.

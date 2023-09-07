@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-1 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Scrcpy is a free and open-source tool for displaying and controlling Android devices from your computer. Learn more about it in this blog post.

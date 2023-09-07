@@ -8,6 +8,5 @@ tags:
 - Resources
 categories: 
 - Design systems
+image: index_screenshot_2023-09-07.png
 ---
-
-A collection of design system resources on GitHub.

@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-1 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Roadmap.sh provides a set of roadmaps for learning popular programming languages and technologies.

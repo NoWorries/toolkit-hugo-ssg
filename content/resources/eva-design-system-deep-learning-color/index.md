@@ -9,6 +9,5 @@ tags:
 - Color
 categories: 
 - Design 
+image: index_screenshot_2023-09-07.png
 ---
-
-A tool that generates color palettes based on deep learning algorithms, which analyzes millions of color combinations to produce unique and aesthetically pleasing results.

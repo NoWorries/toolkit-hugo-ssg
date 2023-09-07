@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-100 Days of SwiftUI is a tutorial series that teaches the basics of building iOS apps with SwiftUI, Apple's declarative UI framework.

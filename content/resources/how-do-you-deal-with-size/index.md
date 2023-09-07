@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Discussion on GitHub about how designers and developers can handle size values for UI elements across different platforms and devices, including best practices and possible solutions.

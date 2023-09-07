@@ -9,6 +9,5 @@ tags:
 - Guide 
 categories: 
 - Development 
+image: index_screenshot_2023-09-07.png
 ---
-
-A collection of cards that define expectations for accessible components.

@@ -10,6 +10,5 @@ tags:
 - Article
 categories: 
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-This article discusses the benefits of sketching in the design process, and how the design team at Airbnb uses sketching to explore ideas, iterate quickly, and communicate effectively.

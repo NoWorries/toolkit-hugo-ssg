@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-1 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Flourish is a platform for creating and sharing data visualizations and interactive stories, with a library of customizable templates and charts.

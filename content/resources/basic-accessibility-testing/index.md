@@ -9,6 +9,5 @@ tags:
 - Article
 categories: 
 - Development
+image: index_screenshot_2023-09-07.png
 ---
-
-Overview of basic accessibility testing for websites and applications.

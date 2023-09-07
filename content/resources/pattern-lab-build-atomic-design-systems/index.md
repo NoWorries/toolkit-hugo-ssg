@@ -9,6 +9,5 @@ tags:
 - Resources
 categories: 
 - Design systems
+image: index_screenshot_2023-09-07.png
 ---
-
-A set of tools and resources for creating and maintaining design systems based on Atomic Design principles, including templates, style guides, and design assets.

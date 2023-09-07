@@ -10,6 +10,5 @@ tags:
 categories: 
 - Design
 - Development 
+image: index_screenshot_2023-09-07.png
 ---
-
-50 free tools and resources for developers and designers, covering everything from code editors and design tools to stock photos and sound effects.

@@ -11,6 +11,5 @@ tags:
 - UI design
 categories:
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-Build better products as a team. Design, prototype, and gather feedback all in one place with Figma

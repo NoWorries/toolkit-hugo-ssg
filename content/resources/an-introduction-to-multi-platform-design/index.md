@@ -10,6 +10,5 @@ tags:
 - Article
 categories: 
 - Design systems 
+image: index_screenshot_2023-09-07.png
 ---
-
-This article introduces multi-platform design systems and discusses their benefits, challenges, and strategies for creating them.

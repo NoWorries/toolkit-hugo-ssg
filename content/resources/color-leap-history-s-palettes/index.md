@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Color Leap is a tool that presents a different palette from history every day, allowing you to browse, search, and explore color schemes used throughout history by artists, designers, and architects.

@@ -8,7 +8,5 @@ tags:
 - Tips & tricks
 categories:
 - Development
+image: index_screenshot_2023-09-07.png
 ---
-
-Developer tips & trick, one bite at a time
-

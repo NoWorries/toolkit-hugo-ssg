@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-1 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Pika is a collection of high-quality illustrations and animations that you can use in your web and app designs, with a focus on inclusivity and diversity.

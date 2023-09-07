@@ -8,6 +8,5 @@ tags:
 - Inspiration
 categories:
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-Handpicked website and graphic design inspiratio

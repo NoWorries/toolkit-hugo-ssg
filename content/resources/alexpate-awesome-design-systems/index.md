@@ -9,6 +9,5 @@ tags:
 - Resources
 categories: 
 - Design systems 
+image: index_screenshot_2023-09-07.png
 ---
-
-This is a curated list of design systems, style guides, and pattern libraries from around the web, with a focus on open-source projects.

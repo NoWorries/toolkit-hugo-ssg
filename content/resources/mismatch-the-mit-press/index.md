@@ -8,6 +8,5 @@ tags:
 - Accessibility
 categories: 
 - Design 
+image: index_screenshot_2023-09-07.png
 ---
-
-Mismatch is a book that explores the mismatch between modern design and the needs of users with disabilities, and offers solutions for designing more accessible products.

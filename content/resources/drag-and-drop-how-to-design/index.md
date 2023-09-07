@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-A blog post that discusses the design principles and best practices for drag-and-drop interactions in user interfaces.

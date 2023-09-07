@@ -9,6 +9,5 @@ tags:
 - WCAG
 categories: 
 - Development 
+image: index_screenshot_2023-09-07.png
 ---
-
-A quick reference guide for meeting the Web Content Accessibility Guidelines (WCAG) 2.1, including guidelines for making web content perceivable, operable, understandable, and robust.

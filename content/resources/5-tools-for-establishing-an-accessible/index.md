@@ -11,6 +11,5 @@ tags:
 categories: 
 - Design
 - Development
+image: index_screenshot_2023-09-07.png
 ---
-
-Five tools that developers and designers can use to create accessible web color palettes, including tools for testing color contrast and generating accessible color combinations.

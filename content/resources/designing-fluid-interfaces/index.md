@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-1 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Apple Developer website providing a video from WWDC 2018 conference session where Apple experts discuss designing fluid interfaces.

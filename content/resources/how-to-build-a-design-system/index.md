@@ -8,6 +8,5 @@ tags:
 - Article
 categories: 
 - Design systems
+image: index_screenshot_2023-09-07.png
 ---
-
-A detailed guide on how to create a design system that helps teams maintain consistency, efficiency, and quality in their work.

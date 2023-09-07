@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Excalidraw is a web-based diagramming tool that creates diagrams that look hand-drawn. It's collaborative and secure.

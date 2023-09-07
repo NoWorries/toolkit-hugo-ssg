@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects.

@@ -9,6 +9,5 @@ tags:
 - Components
 categories:
 - Design systems
+image: index_screenshot_2023-09-07.png
 ---
-
-Reference thousands of components from leading UI engineering teams.

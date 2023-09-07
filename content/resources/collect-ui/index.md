@@ -11,6 +11,5 @@ tags:
 - Inspiration
 categories:
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.

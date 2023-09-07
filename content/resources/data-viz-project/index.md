@@ -9,6 +9,5 @@ tags:
 - Charts
 categories: 
 - Design 
+image: index_screenshot_2023-09-07.png
 ---
-
-Data Viz Project is a collection of data visualizations to inspire and inform, with examples of different types of charts, graphs, and diagrams.

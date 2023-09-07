@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-This GitHub repository provides an overview of various automatic living styleguide generators that developers can use for their web design projects.

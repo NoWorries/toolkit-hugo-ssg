@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-This podcast episode features an interview with the design team behind the responsive redesign of the Ann Arbor District Library's website, providing insights into their process and decision-making.

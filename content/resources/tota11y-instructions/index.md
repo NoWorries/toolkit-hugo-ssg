@@ -9,6 +9,5 @@ tags:
 - Tool
 categories: 
 - Development
+image: index_screenshot_2023-09-07.png
 ---
-
-Tota11y is a free accessibility testing tool that allows you to test your website's accessibility.

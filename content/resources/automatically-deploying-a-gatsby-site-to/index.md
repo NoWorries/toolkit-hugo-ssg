@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Learn how to automatically deploy a Gatsby site to Firebase with Google Cloud Build in this tutorial from Crowdform.

@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-This webpage provides a cheatsheet of questions for conducting user interviews, as well as follow-up questions to ask for further insights.

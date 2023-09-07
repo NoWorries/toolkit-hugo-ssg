@@ -8,6 +8,5 @@ tags:
 - Interview
 categories: 
 - Career 
+image: index_screenshot_2023-09-07.png
 ---
-
-Interview Questions is a collection of interview questions and answers for designers and developers.

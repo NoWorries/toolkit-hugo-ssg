@@ -12,6 +12,5 @@ tags:
 - Inspiration
 categories:
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-Design better user flows by learning from proven products

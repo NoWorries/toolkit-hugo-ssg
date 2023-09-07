@@ -10,6 +10,5 @@ tags:
 - Tool
 categories: 
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-A color palette generator that allows you to create, save and share your color palettes.
