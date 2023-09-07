@@ -1351,6 +1351,10 @@ video {
   height: 100%;
 }
 
+.h-48 {
+  height: 12rem;
+}
+
 .h-6 {
   height: 1.5rem;
 }
@@ -1369,6 +1373,10 @@ video {
 
 .w-60 {
   width: 15rem;
+}
+
+.w-2\/3 {
+  width: 66.666667%;
 }
 
 .w-6 {
@@ -1438,10 +1446,6 @@ video {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
 
-.flex-row {
-  flex-direction: row;
-}
-
 .flex-col {
   flex-direction: column;
 }
@@ -1474,12 +1478,12 @@ video {
   gap: 0.5rem;
 }
 
-.gap-2\.5 {
-  gap: 0.625rem;
-}
-
 .gap-1 {
   gap: 0.25rem;
+}
+
+.gap-3 {
+  gap: 0.75rem;
 }
 
 .gap-y-2 {
@@ -1498,12 +1502,12 @@ video {
   margin-bottom: calc(0.5rem * var(--tw-space-y-reverse));
 }
 
-.overflow-hidden {
-  overflow: hidden;
-}
-
 .overflow-y-auto {
   overflow-y: auto;
+}
+
+.overflow-y-hidden {
+  overflow-y: hidden;
 }
 
 .rounded {
@@ -1576,6 +1580,16 @@ video {
 
 .bg-opacity-5 {
   --tw-bg-opacity: 0.05;
+}
+
+.object-cover {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.object-top {
+  -o-object-position: top;
+     object-position: top;
 }
 
 .p-8 {
@@ -1684,6 +1698,11 @@ video {
   padding-bottom: 0.375rem;
 }
 
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
 .pt-20 {
   padding-top: 5rem;
 }
@@ -1760,6 +1779,10 @@ video {
 
 .\!leading-tight {
   line-height: 1.25 !important;
+}
+
+.leading-tight {
+  line-height: 1.25;
 }
 
 .text-waikawa-gray-500 {
@@ -2145,6 +2168,10 @@ html.dark * {
     margin-left: 16rem;
   }
 
+  .md\:flex {
+    display: flex;
+  }
+
   .md\:grid {
     display: grid;
   }
@@ -2153,8 +2180,20 @@ html.dark * {
     display: none;
   }
 
+  .md\:h-full {
+    height: 100%;
+  }
+
   .md\:w-1\/4 {
     width: 25%;
+  }
+
+  .md\:w-48 {
+    width: 12rem;
+  }
+
+  .md\:w-3\/4 {
+    width: 75%;
   }
 
   .md\:w-60 {
@@ -2176,6 +2215,10 @@ html.dark * {
   .md\:translate-x-0 {
     --tw-translate-x: 0px;
     transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+  }
+
+  .md\:flex-row {
+    flex-direction: row;
   }
 
   .md\:px-3 {

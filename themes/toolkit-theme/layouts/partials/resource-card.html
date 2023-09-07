@@ -1,17 +1,17 @@
 {{ $link := .Params.link }} 
 {{ $title := .Params.title }} 
-<div class="flex {{ with .Resources.GetMatch "index_screenshot_*" }}flex-row gap-2.5{{else}}flex-col px-3 py-4 {{ end }} block rounded border border-waikawa-gray-200 hover:border-waikawa-gray-400 dark:border-waikawa-gray-900 dark:hover:border-waikawa-gray-700 dark:hover:bg-waikawa-gray-950 hover:bg-white hover:shadow-md">
+<div class="md:flex md:flex-row block rounded border border-waikawa-gray-200 hover:border-waikawa-gray-400 dark:border-waikawa-gray-900 dark:hover:border-waikawa-gray-700 dark:hover:bg-waikawa-gray-950 hover:bg-white hover:shadow-md">
   {{ with .Resources.GetMatch "index_screenshot_*" }}
 
-  <div class="w-60 flex"> 
-    {{ with .Resize "240x" }}<a class="grow overflow-hidden" href="{{ $link }}?ref=toolkit.design" target="_blank">
-      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" class="">
-    </a>{{ end }}
+    <div class="md:shrink-1 h-48 md:h-full overflow-y-hidden">
+    {{ with .Resize "320x" }}
+      <img src="{{ .RelPermalink }}" alt="" class="w-full object-top object-cover md:w-48">
+    {{ end }}
   </div>
-  <div class="flex flex-col gap-2 py-2 px-3 py-4">
+  <div class="flex flex-col gap-1 px-3 py-4 md:w-3/4 lg:5/6">
     {{ end }}
   <a class="flex flex-col" href="{{ $link }}?ref=toolkit.design" target="_blank">
-      <h3 class="text-lg font-semibold mb-2.5 lg:text-xl 2xl:text-2xl">
+      <h3 class="text-lg font-semibold mb-2.5 lg:text-xl 2xl:text-2xl leading-tight ">
         {{ $title }}
       </h3>
 
