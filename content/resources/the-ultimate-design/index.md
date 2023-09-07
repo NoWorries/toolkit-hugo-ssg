@@ -8,6 +8,5 @@ tags:
 - Resources
 categories: 
 - Design systems
+image: index_screenshot_2023-09-07.png
 ---
-
-The Ultimate Design Systems Resources List is a comprehensive list of design system tools, resources and tutorials.

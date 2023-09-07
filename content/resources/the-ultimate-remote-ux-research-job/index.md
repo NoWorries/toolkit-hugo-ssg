@@ -8,6 +8,5 @@ tags:
 - Jobs
 categories: 
 - Career 
+image: index_screenshot_2023-09-07.png
 ---
-
-This job board provides a list of opportunities for remote UX research positions across various industries and companies.

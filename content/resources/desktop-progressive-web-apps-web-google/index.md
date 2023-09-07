@@ -10,6 +10,5 @@ tags:
 - Best practice
 categories: 
 - Development 
+image: index_screenshot_2023-09-07.png
 ---
-
-Google's guide to building progressive web applications that can run seamlessly on desktop and mobile devices, with tips and best practices.

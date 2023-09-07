@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Warp SVG Online is a web-based tool for distorting SVG shapes. The tool allows users to warp shapes using a variety of distortion algorithms, such as fish-eye, wave, and twist. The resulting shapes can be exported as SVG files.

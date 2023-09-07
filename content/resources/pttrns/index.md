@@ -9,6 +9,5 @@ tags:
 - Inspiration
 categories:
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-Learn and follow industry best practices that can be applied to your app to help ensure the best user experience possible.

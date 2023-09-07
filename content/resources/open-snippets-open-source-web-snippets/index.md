@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Collection of open-source web snippets, including HTML, CSS, and JavaScript code snippets, that can speed up development.

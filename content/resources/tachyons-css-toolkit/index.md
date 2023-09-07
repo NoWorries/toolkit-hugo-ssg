@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Tachyons is a functional CSS toolkit for quickly building responsive web applications, featuring a modular design and numerous pre-built styles.

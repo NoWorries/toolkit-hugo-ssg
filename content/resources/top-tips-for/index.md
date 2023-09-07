@@ -10,6 +10,5 @@ tags:
 - Charts
 categories: 
 - Design 
+image: index_screenshot_2023-09-07.png
 ---
-
-Top Tips for Data Accessibility is an article by Material Design that provides practical advice for making data visualizations more accessible to people with disabilities.

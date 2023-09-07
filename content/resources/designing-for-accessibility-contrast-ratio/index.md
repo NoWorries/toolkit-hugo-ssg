@@ -10,6 +10,5 @@ tags:
 - Article
 categories: 
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-This article discusses the importance of contrast ratio in designing for accessibility.

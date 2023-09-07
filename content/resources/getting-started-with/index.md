@@ -9,6 +9,5 @@ tags:
 - Article
 categories: 
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-This guide provides an introduction to web accessibility and how to get started with making websites more accessible.

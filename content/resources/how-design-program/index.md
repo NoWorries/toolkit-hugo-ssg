@@ -9,6 +9,5 @@ tags:
 - Article
 categories: 
 - Design systems 
+image: index_screenshot_2023-09-07.png
 ---
-
-This article by zeroheight provides insights into how Design Program Managers can help organizations develop and maintain effective design systems, ensuring consistency and efficiency in design processes.

@@ -10,6 +10,5 @@ tags:
 - Collection
 categories: 
 - Design 
+image: index_screenshot_2023-09-07.png
 ---
-
-A comprehensive list of UX design tools for user research, ideation, prototyping, and more.

@@ -12,6 +12,5 @@ tags:
 - Article
 categories: 
 - Design 
+image: index_screenshot_2023-09-07.png
 ---
-
-Learn the five key principles of accessible typography for the web, including font size, spacing, contrast, hierarchy, and legibility, to ensure that your web content is accessible to all users, including those with disabilities. 

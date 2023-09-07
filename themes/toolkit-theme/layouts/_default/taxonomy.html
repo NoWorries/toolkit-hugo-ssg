@@ -7,7 +7,7 @@
       <h2 class="font-bold text-4xl lg:text-6xl py-1 px-3 mb-10 inline-block">
         {{ .Title }}
       </h2>
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-2 lg:gap-4">
+    <div class="grid grid-cols-1 xl:grid-cols-2 gap-2 lg:gap-4">
       {{ range $index, $page := .Data.Pages -}} 
 
       {{- partial "resource-card" . -}}

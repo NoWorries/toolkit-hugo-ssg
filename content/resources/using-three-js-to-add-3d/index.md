@@ -9,6 +9,5 @@ tags:
 - Article
 categories: 
 - Development 
+image: index_screenshot_2023-09-07.png
 ---
-
-This article is a tutorial on how to use Three.js to add 3D elements to your websites.

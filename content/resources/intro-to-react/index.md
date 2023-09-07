@@ -9,6 +9,5 @@ tags:
 - Article 
 categories: 
 - Development
+image: index_screenshot_2023-09-07.png
 ---
-
-This article provides an introduction to React.js, including how it works and how to get started with it.

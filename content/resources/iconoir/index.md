@@ -10,6 +10,5 @@ tags:
   - Collection
 categories:
   - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-A high-quality selection of free icons. No premium options or sign-ups. Your new alternative to Noun Project, Flaticon, and all Figma resources.

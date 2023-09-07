@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-That Portfolio Book™ is a guide to building a portfolio website, with advice on design, content, and strategy.

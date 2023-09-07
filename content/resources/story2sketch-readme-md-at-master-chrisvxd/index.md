@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-A tool for converting plain text stories or scenarios into visual sketches or diagrams, aimed at designers and product teams working on user experience (UX) and user interface (UI) design.

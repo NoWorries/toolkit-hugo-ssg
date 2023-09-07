@@ -11,7 +11,5 @@ tags:
 - Inspiration
 categories:
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-UI UX Inspirational Gallery for iOS and Android
-

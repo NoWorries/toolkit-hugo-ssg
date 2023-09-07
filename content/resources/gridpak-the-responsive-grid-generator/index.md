@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Gridpak is a responsive grid generator that allows web developers and designers to create custom grid layouts quickly and easily.

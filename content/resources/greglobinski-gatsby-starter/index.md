@@ -9,6 +9,5 @@ tags:
 - Gatsby
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-A starter kit for building a GatsbyJS-powered blog with a hero section on the home page.

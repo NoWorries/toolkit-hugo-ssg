@@ -10,6 +10,5 @@ tags:
 - Article
 categories: 
 - Development 
+image: index_screenshot_2023-09-07.png
 ---
-
-This article by Surma discusses the hidden costs of convenience in software development.

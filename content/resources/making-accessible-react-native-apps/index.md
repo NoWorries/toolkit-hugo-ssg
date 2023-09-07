@@ -9,6 +9,5 @@ tags:
 - React Native
 categories: 
 - Development 
+image: index_screenshot_2023-09-07.png
 ---
-
-Learn how to make accessible React Native apps in this tutorial from Pusher.

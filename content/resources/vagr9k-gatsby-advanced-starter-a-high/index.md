@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-A starter kit for GatsbyJS, a modern static site generator, with a focus on performance, SEO, social features, and development environment.

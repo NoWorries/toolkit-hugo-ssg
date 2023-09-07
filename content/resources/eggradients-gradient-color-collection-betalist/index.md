@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Collection of gradient color schemes for website and app design, including a searchable database and copy-and-paste CSS code.

@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-The official design website of Microsoft, featuring design resources, case studies, and insights into the company's design philosophy.

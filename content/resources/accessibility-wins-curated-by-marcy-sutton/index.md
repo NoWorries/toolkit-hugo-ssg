@@ -10,6 +10,5 @@ tags:
 - Collection
 categories: 
 - Design 
+image: index_screenshot_2023-09-07.png
 ---
-
-A showcase of accessible websites and applications, highlighting the benefits of accessible design.

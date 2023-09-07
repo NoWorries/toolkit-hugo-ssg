@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Mastering Next.js is a free video course that covers the basics of building React applications with Next.js, a popular React framework.

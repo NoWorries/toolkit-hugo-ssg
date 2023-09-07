@@ -10,6 +10,5 @@ tags:
 - Article
 categories: 
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-This article examines the user experience of the interface panels on LEGO sets and what can be learned from them.

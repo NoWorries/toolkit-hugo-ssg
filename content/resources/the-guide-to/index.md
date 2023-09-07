@@ -9,6 +9,5 @@ tags:
 - Guide 
 categories: 
 - Development 
+image: index_screenshot_2023-09-07.png
 ---
-
-This guide provides best practices for building accessible web components.

@@ -9,6 +9,5 @@ tags:
 - Article
 categories: 
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-An article about designing with empathy and meaning on Spotify Design.

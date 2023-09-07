@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-1 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Theme Kit is a website that offers resources and tools for building your own Bootstrap 4 themes. Check it out to learn more.

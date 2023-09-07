@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-1 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Untools is a collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.

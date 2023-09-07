@@ -10,6 +10,5 @@ tags:
 - Collection
 categories: 
 - Design 
+image: index_screenshot_2023-09-07.png
 ---
-
-Handz.design offers a library of 3D hand gestures that can be used for UI and UX design. The library includes a variety of gestures, such as swiping, tapping, and scrolling, as well as different hand poses.

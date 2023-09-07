@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-1 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Slideout.js is a touch slideout navigation menu that is ideal for mobile web apps. Learn more about it on the website.

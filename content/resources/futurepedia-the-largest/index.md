@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-1 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Futurepedia is the largest directory of AI tools that helps you discover, evaluate and use the right AI tool to grow your business.

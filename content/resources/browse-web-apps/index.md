@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-1 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Mobbin is a comprehensive directory of mobile and web app designs, featuring user flows, wireframes, screenshots, and prototypes.

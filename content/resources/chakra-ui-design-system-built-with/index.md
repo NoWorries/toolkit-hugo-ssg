@@ -10,6 +10,5 @@ tags:
 - React 
 categories: 
 - Design systems 
+image: index_screenshot_2023-09-07.png
 ---
-
-Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.

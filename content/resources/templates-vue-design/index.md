@@ -8,6 +8,5 @@ tags:
 - Documentation
 categories: 
 - Design systems
+image: index_screenshot_2023-09-07.png
 ---
-
-Vue Design System offers templates for building web applications with Vue.js. Check out their website to learn more.

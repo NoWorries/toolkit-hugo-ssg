@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-1 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-This cheat sheet provides a comprehensive list of Bootstrap 4 classes, including those for the navbar text.

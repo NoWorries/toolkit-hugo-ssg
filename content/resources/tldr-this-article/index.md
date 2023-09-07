@@ -9,6 +9,5 @@ tags:
 - Tools
 categories: 
 - Misc 
+image: index_screenshot_2023-09-07.png
 ---
-
-TLDR This is an online tool that summarizes long articles and web pages into a few bullet points, saving readers time and helping them quickly understand the main points of an article.

@@ -9,6 +9,5 @@ tags:
 - Article
 categories: 
 - Design systems
+image: index_screenshot_2023-09-07.png
 ---
-
-In this article, Sophia V. Prater explains how Object-Oriented UX ([OOUX](https://www.ooux.com/)) can be used to improve design systems.

@@ -8,6 +8,5 @@ tags:
 - Slidedeck
 categories: 
 - Design systems
+image: index_screenshot_2023-09-07.png
 ---
-
-A slide deck that explains the importance of design systems and provides examples of UI patterns that can be used to create them.

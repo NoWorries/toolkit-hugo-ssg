@@ -8,6 +8,5 @@ tags:
 - Article
 categories: 
 - Design systems
+image: index_screenshot_2023-09-07.png
 ---
-
-This tutorial provides an introduction to design systems, including what they are, why they are important, and how to create one.

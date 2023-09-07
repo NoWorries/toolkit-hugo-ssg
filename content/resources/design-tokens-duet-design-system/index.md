@@ -9,6 +9,5 @@ tags:
 - Learn
 categories: 
 - Design systems 
+image: index_screenshot_2023-09-07.png
 ---
-
-Learn about design tokens and how they can improve your design system in this article from Duet Design System.

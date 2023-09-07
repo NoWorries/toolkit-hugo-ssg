@@ -10,6 +10,5 @@ tags:
 - Article
 categories: 
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-This article provides tips on how to improve user interview questions, including advice on question phrasing, tone, and more.

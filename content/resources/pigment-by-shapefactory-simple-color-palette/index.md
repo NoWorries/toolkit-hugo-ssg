@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Pigment by ShapeFactory is a simple color palette generator that allows you to easily create and save color schemes.

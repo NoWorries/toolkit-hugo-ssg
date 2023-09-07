@@ -10,6 +10,5 @@ tags:
 - Inspiration
 categories:
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-A hand-picked collection of the finest app store design screenshots

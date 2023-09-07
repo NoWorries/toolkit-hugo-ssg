@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-A simple tool for generating CSS grid layouts without writing any code, with drag-and-drop functionality and responsive options.

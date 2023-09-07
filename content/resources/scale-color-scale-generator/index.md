@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-A color scale generator that allows users to create custom color palettes, adjust color hue and saturation, and preview how the colors will look in different contexts.

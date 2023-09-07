@@ -11,6 +11,5 @@ tags:
 - Article
 categories: 
 - Development
+image: index_screenshot_2023-09-07.png
 ---
-
-This article explains how to create rich documentation for components using Storybook MDX.

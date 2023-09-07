@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-The Design Tokens Community Group is a forum for people who want to explore the emerging practice of Design Tokens, and share knowledge about best practices and new developments in the field.

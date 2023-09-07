@@ -9,6 +9,5 @@ tags:
 - Tools
 categories: 
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-Presentation on how to use Sketch, a popular design tool, to create a scalable design system for web and mobile applications.

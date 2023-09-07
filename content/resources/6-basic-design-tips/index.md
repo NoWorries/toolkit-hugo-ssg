@@ -9,6 +9,5 @@ tags:
 - Article
 categories: 
 - Design 
+image: index_screenshot_2023-09-07.png
 ---
-
-This article provides six basic design tips that are not commonly discussed, but can make a big difference in the quality of a design.

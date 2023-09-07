@@ -10,6 +10,5 @@ tags:
 - Inspiration
 categories:
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-UXArchive the world's largest library of mobile user flows. Be inspired to design the best user experiences.

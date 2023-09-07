@@ -10,6 +10,5 @@ tags:
 - Collection
 categories: 
 - Development 
+image: index_screenshot_2023-09-07.png
 ---
-
-Copy and Paste Accessible Code is a collection of code snippets to help developers create more accessible websites and applications.

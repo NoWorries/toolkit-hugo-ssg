@@ -9,6 +9,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-A step-by-step tutorial on creating your first Sketch plugin.

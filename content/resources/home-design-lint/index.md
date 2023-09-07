@@ -10,6 +10,5 @@ tags:
 - Figma
 categories: 
 - Design
+image: index_screenshot_2023-09-07.png
 ---
-
-Design Lint is a tool that automatically checks your designs for inconsistencies, errors, and accessibility issues.

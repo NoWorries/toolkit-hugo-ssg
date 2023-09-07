@@ -8,6 +8,5 @@ tags:
 - unsorted-bookmarks-2 
 categories: 
 - Unsorted 
+image: index_screenshot_2023-09-07.png
 ---
-
-Zenmix.io is an ambient background sound generator that allows users to create and customize their own relaxing and immersive soundscapes.
