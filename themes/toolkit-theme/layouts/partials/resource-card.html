@@ -1,45 +1,61 @@
-{{ $link := .Params.link }} 
-{{ $title := .Params.title }} 
-<div class="md:flex md:flex-row block rounded border border-waikawa-gray-200 hover:border-waikawa-gray-400 dark:border-waikawa-gray-900 dark:hover:border-waikawa-gray-700 dark:hover:bg-waikawa-gray-950 bg-white hover:shadow-md">
+{{ $link := .Params.link }} {{ $title := .Params.title }}
+<div
+  class="md:flex md:flex-row block rounded border border-waikawa-gray-200 hover:border-waikawa-gray-400 dark:border-waikawa-gray-900 dark:hover:border-waikawa-gray-700 dark:hover:bg-waikawa-gray-900 bg-white dark:bg-waikawa-gray-900 hover:shadow-waikawa-gray-300/50 dark:hover:shadow-black/10"
+>
   {{ with .Resources.GetMatch "index_screenshot_*" }}
 
-    <div class="md:shrink-1 h-48 md:h-full overflow-y-hidden">
+  <div class="md:shrink-1 h-48 md:h-full overflow-y-hidden">
     {{ with .Resize "320x" }}
-      <img src="{{ .RelPermalink }}" alt="" class="rounded-t md:rounded-l md:rounded-tr-none w-full object-top object-cover md:w-48">
+    <img
+      src="{{ .RelPermalink }}"
+      alt=""
+      class="rounded-t md:rounded-l md:rounded-tr-none w-full object-top object-cover md:w-48"
+    />
     {{ end }}
   </div>
   <div class="flex flex-col gap-1 px-4 py-5 md:w-3/4 lg:5/6">
     {{ end }}
-  <a class="flex flex-col" href="{{ $link }}?ref=toolkit.design" target="_blank">
-      <h3 class="text-lg font-semibold mb-2.5 lg:text-xl 2xl:text-2xl leading-tight ">
+    <a
+      class="flex flex-col"
+      href="{{ $link }}?ref=toolkit.design"
+      target="_blank"
+    >
+      <h3
+        class="text-lg font-semibold mb-2.5 lg:text-xl 2xl:text-2xl leading-tight"
+      >
         {{ $title }}
       </h3>
 
       {{ with .Params.author }}
-      <div class="text-sm text-waikawa-gray-700 dark:text-waikawa-gray-400 mb-2">
-        <span class="text-sm text-waikawa-gray-700 dark:text-waikawa-gray-400">By</span> {{ . }}
+      <div
+        class="text-sm text-waikawa-gray-700 dark:text-waikawa-gray-400 mb-2"
+      >
+        <span class="text-sm text-waikawa-gray-700 dark:text-waikawa-gray-400"
+          >By</span
+        >
+        {{ . }}
       </div>
-      {{ end }}
-      {{ with .Description }}
-      <div class="text-sm text-waikawa-gray-500 dark:text-waikawa-gray-400 line-clamp-2">
+      {{ end }} {{ with .Description }}
+      <div
+        class="text-sm text-waikawa-gray-500 dark:text-waikawa-gray-400 line-clamp-2"
+      >
         {{ . }}
       </div>
       {{ end }}
-      
     </a>
     {{- with .Params.tags -}}
-    <div class=""><div class="tags-list mt-4 flex flex-wrap gap-y-2">
-      {{- if ge (len .) 1 -}} {{- range . -}}
-      <a
-        href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}/"
-        class="bg-waikawa-gray-100 hover:bg-waikawa-gray-200 text-waikawa-gray-800 text-xs font-semibold mr-2 px-2 py-1 rounded dark:bg-gray-700 dark:text-waikawa-gray-400 border border-waikawa-gray-200 dark:border-waikawa-gray-800 inline-flex items-center justify-center"
-        >{{ . }}</a
-      >
-      {{ end -}} {{- end -}}
-    </div></div>
-    {{- end -}}
-   
-      {{ with .Resources.GetMatch "index_screenshot_*" }}
+    <div class="">
+      <div class="tags-list mt-4 flex flex-wrap gap-y-2">
+        {{- if ge (len .) 1 -}} {{- range . -}}
+        <a
+          href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}/"
+          class="bg-waikawa-gray-100 hover:bg-waikawa-gray-200 text-waikawa-gray-800 text-xs font-semibold mr-2 px-2 py-1 rounded dark:bg-gray-700 dark:text-waikawa-gray-400 border border-waikawa-gray-200 dark:border-waikawa-gray-800 inline-flex items-center justify-center"
+          >{{ . }}</a
+        >
+        {{ end -}} {{- end -}}
+      </div>
     </div>
-      {{ end }}   
+    {{- end -}} {{ with .Resources.GetMatch "index_screenshot_*" }}
   </div>
+  {{ end }}
+</div>
