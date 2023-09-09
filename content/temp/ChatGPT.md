@@ -1,7 +1,7 @@
 ---
 title: ChatGPT
 date: 2023-09-01
-description: 
+description: A conversational AI system that listens, learns, and challenges
 link: https://chat.openai.com/
 pricing: 
 tags: 

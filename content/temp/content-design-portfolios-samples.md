@@ -1,14 +1,14 @@
 ---
-title: What We Look for in Content Design Portfolios and Work Samples
+categories:
+- Content
+- Career
 date: 2023-09-01
-description: 
+description: Applying for content design roles and trying to craft the perfect portfolio? We're here for you (with a reminder that perfection isn't the answer).
 link: https://product.hubspot.com/blog/how-to-content-design-portfolios-and-work-samples
-pricing: 
-tags: 
+pricing:
+tags:
 - Content design
 - Portfolio
 - Article
-categories: 
-- Content
-- Career
+title: What We Look for in Content Design Portfolios and Work Samples
 ---

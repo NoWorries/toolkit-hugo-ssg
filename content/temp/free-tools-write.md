@@ -1,13 +1,13 @@
 ---
-title: Free tools – Write
+categories:
+- Content
 date: 2023-09-01
-description: 
+description: Write's free tools include checklists to help with different kinds of writing, jargon-busters for different speciality fields, and more.
 link: https://write.co.nz/resources/free-tools/
-pricing: 
-tags: 
+pricing:
+tags:
 - Tools
 - Tips
 - Writing
-categories: 
-- Content
+title: Free tools – Write
 ---

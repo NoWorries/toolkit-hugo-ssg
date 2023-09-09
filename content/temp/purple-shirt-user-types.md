@@ -1,12 +1,12 @@
 ---
-title: Our take on user types
+categories:
+- Design
 date: 2023-09-01
-description: 
+description: Learn about the concept of user types from the experts at Purple Shirt
 link: https://www.purpleshirt.co.nz/news/our-take-on-user-types
-pricing: 
-tags: 
+pricing:
+tags:
 - Article
 - User experience
-categories: 
-- Design
+title: Our take on user types
 ---

@@ -1,14 +1,14 @@
 ---
-title: Dyslexia friendly style guide
+categories:
+- Content
+- Design
 date: 2023-09-01
-description: 
+description: This Style Guide provides principles that can help ensure that written material considers the difficulties experienced by some dyslexic people and allows…
 link: https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide
-pricing: 
-tags: 
+pricing:
+tags:
 - Accessibility
 - Dyslexia
 - Article
-categories: 
-- Content
-- Design
+title: Dyslexia friendly style guide
 ---

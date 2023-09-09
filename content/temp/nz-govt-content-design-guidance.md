@@ -1,17 +1,17 @@
 ---
-title: Content design guidance
+categories:
+- Content
+- Design
 date: 2023-09-01
-description: 
+description: Use this guidance to help you design useful, readable, and inclusive content for your users.
 link: https://www.digital.govt.nz/standards-and-guidance/design-and-ux/content-design-guidance/
 pricing: na
-tags: 
+tags:
 - Content design
 - Government
 - User experience
 - Standards
 - Accessibility
 - Inclusion
-categories: 
-- Content
-- Design
+title: Content design guidance
 ---
