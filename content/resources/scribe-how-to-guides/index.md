@@ -1,7 +1,7 @@
 ---
 title: Scribe
 date: 2023-09-01
-description: 
+description: Turn any process into a step-by-step guide, instantly.
 link: https://scribehow.com/
 pricing: 
 tags: 
