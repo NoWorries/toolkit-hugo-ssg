@@ -6,7 +6,9 @@ googleAnalytics = 'G-7BQELP86FJ'
 
 [Params]
   description = "Years of design bookmarks, finally being organised"
-  images = ['/digital-garden-logo.png']
+  images = ['/social-image.png']
+  Twitter_Image = "/social-image.png"
+  Twitter_Site = "@joshdesignnz"
   enableSearch = true
 
 [menu]
