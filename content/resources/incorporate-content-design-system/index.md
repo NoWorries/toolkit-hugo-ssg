@@ -9,6 +9,8 @@ pricing:
 tags:
 - Content design
 - Content strategy
+- Articles
+author: Bobbie Wood
 title: How to incorporate content design into your design system
 image: index_screenshot_2023-09-09.png
 ---

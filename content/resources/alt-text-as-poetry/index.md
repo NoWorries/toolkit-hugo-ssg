@@ -1,7 +1,8 @@
 ---
 title: Alt text as poetry
+author: Bojana Coklyat and Shannon Finnegan
 date: 2023-09-01
-description: description of the page
+description: A project that encourages web authors to consider the creative opportunities of alt text.
 link: https://alt-text-as-poetry.net/
 pricing: na
 tags: 
