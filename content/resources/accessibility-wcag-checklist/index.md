@@ -1,7 +1,7 @@
 ---
 title: Accessibility checklist
 date: 2023-09-01
-description:
+description: A beginner's guide to digital accessibility.
 link: https://www.a11yproject.com/checklist/
 pricing:
 tags: 
