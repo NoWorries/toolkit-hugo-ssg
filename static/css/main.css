@@ -2148,6 +2148,11 @@ html.dark * {
   --tw-shadow: var(--tw-shadow-colored);
 }
 
+.dark .group:hover .dark\:group-hover\:text-waikawa-gray-100 {
+  --tw-text-opacity: 1;
+  color: rgb(231 240 248 / var(--tw-text-opacity));
+}
+
 @media (min-width: 768px) {
   .md\:fixed {
     position: fixed;
