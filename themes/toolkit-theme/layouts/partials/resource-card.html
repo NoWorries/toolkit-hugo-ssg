@@ -4,12 +4,12 @@
 >
   {{ with .Resources.GetMatch "index_screenshot_*" }}
 
-  <div class="md:shrink-1 h-48 md:h-full overflow-y-hidden">
+  <div class="md:shrink-1 h-48 md:h-full overflow-y-hidden bg-white rounded-t md:rounded-l md:rounded-tr-none ">
     {{ with .Resize "320x" }}
     <img
       src="{{ .RelPermalink }}"
       alt=""
-      class="rounded-t md:rounded-l md:rounded-tr-none w-full object-top object-cover md:w-48"
+      class="w-full object-top object-cover md:w-48"
     />
     {{ end }}
   </div>
