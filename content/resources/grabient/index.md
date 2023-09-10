@@ -1,7 +1,7 @@
 ---
 title: Grabient
 date: 2023-01-01
-description: 
+description: Beautiful and simple UI for generating web gradients.
 link: https://www.grabient.com/
 pricing: 
 tags: 
