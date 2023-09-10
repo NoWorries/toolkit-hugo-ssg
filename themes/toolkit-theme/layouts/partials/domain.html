@@ -1,0 +1,9 @@
+{{ with .Params.link }}
+  {{ $parts := split . "//" }}
+  {{ with index $parts 1 }}
+    {{ $domainParts := split . "/" }}
+    {{ $domain := index $domainParts 0 }}
+    {{ $cleanedDomain := replace $domain "www." "" }}
+    {{ $cleanedDomain }}
+  {{ end }}
+{{ end }}

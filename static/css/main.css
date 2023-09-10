@@ -1333,6 +1333,10 @@ video {
   display: grid;
 }
 
+.contents {
+  display: contents;
+}
+
 .hidden {
   display: none;
 }
@@ -1689,11 +1693,6 @@ video {
   padding-right: 0.5rem;
 }
 
-.px-4 {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
 .py-1\.5 {
   padding-top: 0.375rem;
   padding-bottom: 0.375rem;
@@ -1979,6 +1978,11 @@ html.dark * {
 .hover\:shadow-waikawa-gray-300\/50:hover {
   --tw-shadow-color: rgb(185 207 232 / 0.5);
   --tw-shadow: var(--tw-shadow-colored);
+}
+
+.group:hover .group-hover\:text-waikawa-gray-900 {
+  --tw-text-opacity: 1;
+  color: rgb(65 78 110 / var(--tw-text-opacity));
 }
 
 .prose-img\:mx-auto :is(:where(img):not(:where([class~="not-prose"] *))) {
