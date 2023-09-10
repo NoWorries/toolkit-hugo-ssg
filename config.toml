@@ -6,9 +6,12 @@ theme = 'toolkit-theme'
 [Params]
   description = "Years of design bookmarks, finally being organised"
   images = ['/social-image.png']
-  Twitter_Image = "/social-image.png"
+  Twitter_Image = ['/social-image.png']
   Twitter_Site = "@joshdesignnz"
   enableSearch = true
+
+[social]
+  twitter = 'joshdesignnz'
 
 [menu]
 [[menu.main]]
