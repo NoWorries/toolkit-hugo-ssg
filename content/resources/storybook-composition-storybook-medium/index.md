@@ -7,7 +7,7 @@ link: https://medium.com/storybookjs/storybook-composition-af0da9084fba
 pricing: 
 tags: 
 - Storybook
-- Article
+- Articles
 - Learn
 categories: 
 - Development

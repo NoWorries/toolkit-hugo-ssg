@@ -6,7 +6,7 @@ description: The Email Subject Line Tester that will score your overall subject 
 link: https://coschedule.com/email-subject-line-tester
 pricing:
 tags:
-- Email
+- Emails
 title: Email subject line tester
 image: index_screenshot_2023-09-10.png
 ---

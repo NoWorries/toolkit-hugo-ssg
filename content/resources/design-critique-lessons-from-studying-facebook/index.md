@@ -7,7 +7,7 @@ link: https://uxdesign.cc/debugging-your-design-critique-2f002acb50cf
 pricing: 
 tags: 
 - Critiques
-- Article
+- Articles
 categories: 
 - Design
 image: index_screenshot_2023-09-07.png

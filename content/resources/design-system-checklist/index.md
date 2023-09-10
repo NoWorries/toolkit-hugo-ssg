@@ -5,7 +5,7 @@ description: An open-source checklist to help you plan, build and grow your desi
 link: https://www.designsystemchecklist.com/
 pricing: Open source
 tags: 
-- Checklist
+- Checklists
 categories:
 - Design systems
 image: index_screenshot_2023-09-07.png

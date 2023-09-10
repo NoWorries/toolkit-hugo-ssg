@@ -6,7 +6,7 @@ link: https://learninghub.zeroheight.com/hc/en-us/articles/12045707347099
 pricing: 
 tags: 
 - Management
-- Article
+- Articles
 categories: 
 - Design systems 
 image: index_screenshot_2023-09-07.png

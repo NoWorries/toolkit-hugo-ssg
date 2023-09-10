@@ -5,7 +5,7 @@ description: Sometimes, we need to talk about the interface to keep things clear
 link: https://contentdesign.intuit.com/product-and-ui/writing-about-ui/
 pricing: 
 tags: 
-- Help content
+- Help contents
 - Writing
 - Microcopy
 - Tips

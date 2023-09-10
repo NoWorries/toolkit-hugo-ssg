@@ -6,7 +6,7 @@ link: https://tota11y.babylontech.co.uk/
 pricing: 
 tags: 
 - Accessibility
-- Tool
+- Tools
 categories: 
 - Development
 image: index_screenshot_2023-09-07.png

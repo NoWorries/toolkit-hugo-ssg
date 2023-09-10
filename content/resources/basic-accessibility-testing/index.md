@@ -6,7 +6,7 @@ link: https://incl.ca/basic-accessibility-testing/
 pricing: 
 tags: 
 - Accessibility
-- Article
+- Articles
 categories: 
 - Development
 image: index_screenshot_2023-09-07.png

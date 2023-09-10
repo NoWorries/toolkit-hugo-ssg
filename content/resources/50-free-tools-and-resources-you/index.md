@@ -6,7 +6,7 @@ link: https://dev.to/denicmarko/50-free-tools-and-resources-you-re-gonna-love-4h
 pricing: 
 tags: 
 - Tools
-- Article
+- Articles
 categories: 
 - Design
 - Development 

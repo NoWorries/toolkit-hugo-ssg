@@ -9,7 +9,7 @@ pricing:
 tags:
 - Content design
 - Portfolio
-- Article
+- Articles
 title: What We Look for in Content Design Portfolios and Work Samples
 image: index_screenshot_2023-09-09.png
 ---

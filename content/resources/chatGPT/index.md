@@ -6,7 +6,7 @@ link: https://chat.openai.com/
 pricing: 
 tags: 
 - Generative AI
-- Tool
+- Tools
 categories: 
 - Content
 - Design

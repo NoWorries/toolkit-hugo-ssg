@@ -6,7 +6,7 @@ link: https://medium.com/@larenelg/mobile-accessibility-resources-dab97a739080
 pricing: 
 tags: 
 - Accessibility
-- Collection
+- Collections
 categories: 
 - Design
 image: index_screenshot_2023-09-07.png

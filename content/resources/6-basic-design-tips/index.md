@@ -6,7 +6,7 @@ link: https://medium.com/8px-magazine/6-basic-design-tips-1b14523d55b
 pricing: 
 tags: 
 - Tips
-- Article
+- Articles
 categories: 
 - Design 
 image: index_screenshot_2023-09-07.png

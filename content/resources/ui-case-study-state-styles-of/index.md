@@ -6,8 +6,8 @@ link: https://blog.prototypr.io/ui-case-study-state-styles-of-card-component-wit
 pricing: 
 tags: 
 - Accessibility
-- Case study
-- Article
+- Case studies
+- Articles
 categories: 
 - Design
 image: index_screenshot_2023-09-07.png

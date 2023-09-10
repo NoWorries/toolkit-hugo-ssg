@@ -6,7 +6,7 @@ link: https://airbnb.design/the-evolution-of-tools/
 pricing: 
 tags: 
 - Tools
-- Article 
+- Articles 
 categories: 
 - Design
 image: index_screenshot_2023-09-07.png

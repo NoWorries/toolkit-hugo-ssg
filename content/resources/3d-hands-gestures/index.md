@@ -7,7 +7,7 @@ pricing:
 tags: 
 - 3D
 - Visuals
-- Collection
+- Collections
 categories: 
 - Design 
 image: index_screenshot_2023-09-07.png

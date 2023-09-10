@@ -7,7 +7,7 @@ link: https://accessibility.blog.gov.uk/2017/02/08/advice-for-creating-content-t
 pricing: na
 tags:
 - Accessibility
-- Article
+- Articles
 - Government
 title: How to create content that works well with screen readers
 image: index_screenshot_2023-09-10.png

@@ -7,7 +7,7 @@ link: https://dbanks.design/blog/multi-platform/
 pricing: 
 tags: 
 - Design systems
-- Article
+- Articles
 categories: 
 - Design systems 
 image: index_screenshot_2023-09-07.png

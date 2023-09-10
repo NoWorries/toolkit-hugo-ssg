@@ -6,7 +6,6 @@ link: https://guide.freecodecamp.org/
 pricing: 
 tags: 
 - Education
-- Learn
 - Code
 categories: 
 - Development

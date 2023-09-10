@@ -5,8 +5,8 @@ description:
 link: https://www.a11yproject.com/checklist/
 pricing:
 tags: 
-- Cccessibility
-- Checklist
+- Accessibility
+- Checklists
 - WCAG
 categories: 
 - Content

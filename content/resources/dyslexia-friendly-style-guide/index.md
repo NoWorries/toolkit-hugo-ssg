@@ -9,7 +9,7 @@ pricing:
 tags:
 - Accessibility
 - Dyslexia
-- Article
+- Articles
 title: Dyslexia friendly style guide
 image: index_screenshot_2023-09-10.png
 ---

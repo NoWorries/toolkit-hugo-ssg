@@ -6,7 +6,7 @@ link: https://owl.purdue.edu/owl/general_writing/punctuation/commas/extended_rul
 pricing: 
 tags: 
 - Grammar
-- Article
+- Articles
 - Writing
 categories: 
 - Content

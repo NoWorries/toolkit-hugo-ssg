@@ -7,7 +7,7 @@ pricing:
 tags: 
 - Sketching
 - Design process
-- Article
+- Articles
 categories: 
 - Design
 image: index_screenshot_2023-09-07.png

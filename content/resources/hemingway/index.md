@@ -7,7 +7,7 @@ pricing:
 tags: 
 - Grammar
 - Writing
-- Tool
+- Tools
 categories: 
 - Content
 image: index_screenshot_2023-09-10.png

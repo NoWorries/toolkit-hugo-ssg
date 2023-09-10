@@ -7,7 +7,7 @@ link: https://www.nngroup.com/articles/tone-of-voice-dimensions/
 pricing:
 tags:
 - Tone of voice
-- Article
+- Articles
 - Content strategy
 title: The four dimensions of tone of voice
 image: index_screenshot_2023-09-10.png

@@ -7,7 +7,7 @@ link: https://learn.microsoft.com/en-us/style-guide/welcome/
 pricing:
 tags:
 - Style guide
-- UI
+- User interface
 title: Microsoft writing style guide
 image: index_screenshot_2023-09-10.png
 ---

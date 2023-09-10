@@ -6,7 +6,7 @@ description: A guide to creating content models. A useful content strategy tool 
 link: https://alistapart.com/article/content-modelling-a-master-skill/
 pricing: 
 tags: 
-- Article
+- Articles
 - Content strategy
 categories: 
 - Content
