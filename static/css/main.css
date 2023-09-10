@@ -1874,13 +1874,6 @@ video {
   -webkit-line-clamp: 2;
 }
 
-.line-clamp-3 {
-  overflow: hidden;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 3;
-}
-
 .line-clamp-4 {
   overflow: hidden;
   display: -webkit-box;
@@ -1992,10 +1985,6 @@ html.dark * {
 .hover\:shadow-waikawa-gray-300\/50:hover {
   --tw-shadow-color: rgb(185 207 232 / 0.5);
   --tw-shadow: var(--tw-shadow-colored);
-}
-
-.hover\:line-clamp-none:hover {
-  -webkit-line-clamp: unset;
 }
 
 .group:hover .group-hover\:text-waikawa-gray-900 {
@@ -2540,6 +2529,10 @@ html.dark * {
   .lg\:font-medium {
     font-weight: 500;
   }
+
+  .lg\:leading-tight {
+    line-height: 1.25;
+  }
 }
 
 @media (min-width: 1280px) {
@@ -2577,5 +2570,9 @@ html.dark * {
   .\32xl\:text-2xl {
     font-size: 1.5rem;
     line-height: 2rem;
+  }
+
+  .\32xl\:leading-tight {
+    line-height: 1.25;
   }
 }
