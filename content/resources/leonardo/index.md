@@ -7,7 +7,7 @@ pricing:
 tags: 
 - Accessibility
 - Color
-- Tool
+- Tools
 categories: 
 - Design
 image: index_screenshot_2023-09-07.png

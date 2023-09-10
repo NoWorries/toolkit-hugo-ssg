@@ -5,7 +5,7 @@ description: A detailed guide on how to create a design system that helps teams 
 link: https://medium.freecodecamp.org/how-to-build-a-design-system-with-a-small-team-53a3276d44ac
 pricing: 
 tags: 
-- Article
+- Articles
 categories: 
 - Design systems
 image: index_screenshot_2023-09-07.png

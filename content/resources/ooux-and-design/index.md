@@ -6,7 +6,7 @@ link: https://www.ooux.com/hi/ooux-and-design-systems
 pricing: 
 tags: 
 - User experience
-- Article
+- Articles
 categories: 
 - Design systems
 image: index_screenshot_2023-09-07.png

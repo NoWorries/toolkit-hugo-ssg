@@ -6,7 +6,7 @@ link: https://lintyour.design/
 pricing: 
 tags: 
 - Accessibility
-- Tool
+- Tools
 - Figma
 categories: 
 - Design

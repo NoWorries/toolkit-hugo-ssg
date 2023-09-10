@@ -6,7 +6,7 @@ link: https://medium.com/intuit-engineering/open-sourcing-design-systems-cli-ac9
 pricing: 
 tags: 
 - CLI
-- Article
+- Articles
 categories: 
 - Design systems
 image: index_screenshot_2023-09-07.png

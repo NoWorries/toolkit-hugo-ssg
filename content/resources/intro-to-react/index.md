@@ -6,7 +6,7 @@ link: https://medium.com/the-codelog/intro-to-react-js-a37696fd99af
 pricing: 
 tags: 
 - React
-- Article 
+- Articles 
 categories: 
 - Development
 image: index_screenshot_2023-09-07.png

@@ -7,7 +7,7 @@ pricing:
 tags: 
 - Color
 - Accessibility
-- Article
+- Articles
 categories: 
 - Design
 - Development

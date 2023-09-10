@@ -7,7 +7,7 @@ description: 'Accessibility resources free online from the international standar
 link: https://www.w3.org/WAI/planning/statements/generator/#create
 pricing:
 tags:
-- Tool
+- Tools
 - Accessibility
 title: Generate an accessibility statement
 image: index_screenshot_2023-09-10.png

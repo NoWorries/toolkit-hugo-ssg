@@ -6,7 +6,7 @@ description: Learn about the concept of user types from the experts at Purple Sh
 link: https://www.purpleshirt.co.nz/news/our-take-on-user-types
 pricing:
 tags:
-- Article
+- Articles
 - User experience
 title: Our take on user types
 image: index_screenshot_2023-09-09.png

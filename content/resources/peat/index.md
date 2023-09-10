@@ -6,7 +6,7 @@ link: https://trace.umd.edu/peat/
 pricing: 
 tags: 
 - Accessibility
-- Tool
+- Tools
 categories: 
 - Design
 image: index_screenshot_2023-09-09.png

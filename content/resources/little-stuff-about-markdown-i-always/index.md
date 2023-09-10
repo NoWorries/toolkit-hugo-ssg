@@ -6,7 +6,7 @@ link: https://css-tricks.com/little-stuff-markdown-always-forget-google/
 pricing: 
 tags: 
 - Markdown
-- Article
+- Articles
 categories: 
 - Development 
 image: index_screenshot_2023-09-07.png

@@ -5,8 +5,8 @@ description:
 link: https://scribehow.com/
 pricing: 
 tags: 
-- Help content
-- Tool 
+- Help contents
+- Tools
 categories: 
 - Content
 image: index_screenshot_2023-09-09.png

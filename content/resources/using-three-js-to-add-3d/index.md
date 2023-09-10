@@ -6,7 +6,7 @@ link: https://www.elegantthemes.com/blog/design/using-three-js-to-add-3d-element
 pricing: 
 tags: 
 - 3D
-- Article
+- Articles
 categories: 
 - Development 
 image: index_screenshot_2023-09-07.png

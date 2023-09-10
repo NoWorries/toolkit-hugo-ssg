@@ -6,7 +6,7 @@ link: https://melsumner.github.io/getting-started-with-accessibility
 pricing: 
 tags: 
 - Accessibility
-- Article
+- Articles
 categories: 
 - Design
 image: index_screenshot_2023-09-07.png

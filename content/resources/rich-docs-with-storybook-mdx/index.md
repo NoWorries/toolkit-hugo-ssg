@@ -8,7 +8,7 @@ tags:
 - Storybook
 - MDX
 - Documentation
-- Article
+- Articles
 categories: 
 - Development
 image: index_screenshot_2023-09-07.png

@@ -8,7 +8,7 @@ tags:
 - Content ops
 - Content strategy
 - Template
-- Checklist
+- Checklists
 categories: 
 - Content
 image: index_screenshot_2023-09-10.png

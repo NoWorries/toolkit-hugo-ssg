@@ -7,7 +7,7 @@ pricing:
 tags: 
 - Code snippets
 - Accessibility
-- Collection
+- Collections
 categories: 
 - Development 
 image: index_screenshot_2023-09-07.png

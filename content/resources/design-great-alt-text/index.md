@@ -7,7 +7,7 @@ link: https://www.deque.com/blog/great-alt-text-introduction/
 pricing: 
 tags: 
 - Accessibility
-- Article
+- Articles
 - Alt text
 categories: 
 - Content

@@ -5,7 +5,7 @@ description: Reimagining Design Systems at Spotify is an article that explains h
 link: https://spotify.design/article/reimagining-design-systems-at-spotify
 pricing: 
 tags: 
-- Article
+- Articles
 categories: 
 - Design systems
 image: index_screenshot_2023-09-07.png

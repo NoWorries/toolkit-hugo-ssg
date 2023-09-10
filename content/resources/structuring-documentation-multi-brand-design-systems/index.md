@@ -8,7 +8,7 @@ link: https://amyhupe.co.uk/articles/structuring-documentation-multi-brand-desig
 pricing:
 tags:
 - Documentation
-- Article
+- Articles
 title: Structuring documentation in multi-brand design systems
 image: index_screenshot_2023-09-10.png
 ---

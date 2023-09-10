@@ -8,7 +8,7 @@ pricing:
 tags:
 - Style guide
 - Tips
-- Article
+- Articles
 - Content strategy
 - UX writing
 title: >
