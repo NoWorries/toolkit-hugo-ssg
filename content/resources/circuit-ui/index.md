@@ -10,6 +10,7 @@ tags:
 - Components
 categories: 
 - Design systems 
+image: index_screenshot_2023-01-01.png
 ---
 
 A living style guide for the Circuit UI design system, which includes a color palette, typography, and other design elements.
