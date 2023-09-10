@@ -9,6 +9,7 @@ tags:
 - Tools
 categories: 
 - Design systems
+image: index_screenshot_2023-01-01.png
 ---
 
 Reshaped is a Figma plugin that allows you to build and manage a design system with React.
