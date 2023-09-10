@@ -1,12 +1,14 @@
 ---
-title: Color Tool | Material Design
+title: Color Tool
+author: Material Design
 date: 2023-01-01
-description: 
-link: https://material.io/tools/color/#!/?view.left=0&view.right=0&primary.color=ffffff
+description: Material uses color to create meaningful experiences while also expressing hierarchy, state, and brand identity.
+link: https://m3.material.io/styles/color/overview
 pricing: 
 tags: 
-- unsorted-bookmarks-2 
+- Color
+- Tool
 categories: 
-- Unsorted 
+- Design 
 image: index_screenshot_2023-09-07.png
 ---
