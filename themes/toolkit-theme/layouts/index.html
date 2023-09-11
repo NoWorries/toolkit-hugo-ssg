@@ -2,33 +2,40 @@
 
 <main class="h-screen overflow-y-auto w-full">
   <section
-    class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-6xl mx-auto flex flex-col px-5 pt-20 py-6 lg:mb-10"
+    class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-6xl mx-auto flex flex-col px-5 pt-20 py-6 lg:mb-5"
   >
-    
-    <h1 class="font-bold text-4xl lg:text-6xl py-1 px-0 mb-4 inline-block dark:text-waikawa-gray-200">🧰 {{ .Title }}
+    <h1
+      class="font-bold text-4xl lg:text-6xl py-1 px-0 mb-10 inline-block dark:text-waikawa-gray-200"
+    >
+      🧰 {{ .Title }}
     </h1>
-    {{ .Content }}
+    <div class="text-lg">{{ .Content }}</div>
   </section>
 
   <section
     class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-6xl mx-auto flex flex-col px-5 py-5"
-  ><h2 class="text-xl font-semibold mb-4 lg:text-xl 2xl:text-3xl">
-    Categories
-  </h2>
-  <i data-duoicon="menu" class="duoicon-primary:text-indigo-600
-  duoicon-secondary:opacity-100 duoicon-secondary:text-indigo-400"></i>
+  >
+    <h2 class="text-xl font-semibold mb-4 lg:text-xl 2xl:text-3xl">
+      Categories
+    </h2>
+    <i
+      data-duoicon="menu"
+      class="duoicon-primary:text-indigo-600 duoicon-secondary:opacity-100 duoicon-secondary:text-indigo-400"
+    ></i>
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-2 lg:gap-4">
       {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
 
       <a
-        class="px-3 py-4 block row-span-2 rounded bg-white border-color  dark:bg-waikawa-gray-900 shadow-2xl shadow-waikawa-gray-300/50 dark:shadow-waikawa-gray-800/20 hover:shadow-lg hover:shadow-waikawa-gray-300/50 dark:hover:shadow-black/10"
+        class="px-3 py-4 block row-span-2 rounded bg-white border-color dark:bg-waikawa-gray-900 shadow-2xl shadow-waikawa-gray-300/50 dark:shadow-waikawa-gray-800/20 hover:shadow-lg hover:shadow-waikawa-gray-300/50 dark:hover:shadow-black/10"
         href="{{.Permalink}}"
       >
         <h3 class="text-lg font-semibold mb-0.5 lg:text-xl 2xl:text-3xl">
           {{.Title}}
         </h3>
         {{ with .Description }}
-        <div class="text-sm text-waikawa-gray-500 dark:text-waikawa-gray-400 line-clamp-2">
+        <div
+          class="text-sm text-waikawa-gray-500 dark:text-waikawa-gray-400 line-clamp-2"
+        >
           {{ . }}
         </div>
         {{ end }}
