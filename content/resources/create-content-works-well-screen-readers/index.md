@@ -10,5 +10,5 @@ tags:
 - Articles
 - Government
 title: How to create content that works well with screen readers
-image: index_screenshot_2023-09-10.png
+image: "screenshot_2023-09-13.png"
 ---
