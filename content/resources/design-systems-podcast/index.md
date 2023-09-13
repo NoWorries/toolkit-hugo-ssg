@@ -7,7 +7,8 @@ link: https://www.designsystemspodcast.com/
 image: "screenshot_2023-09-13.png"
 pricing:
 tags:
-  - Articles
+  - Podcasts
+  - Interviews
 categories:
   - Design systems
   - Podcasts
