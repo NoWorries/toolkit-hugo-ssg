@@ -11,5 +11,5 @@ tags:
 categories: 
 - Content
 - Design
-image: index_screenshot_2023-09-10.png
+image: "screenshot_2023-09-13.png"
 ---

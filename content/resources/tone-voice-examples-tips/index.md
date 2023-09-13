@@ -10,5 +10,5 @@ tags:
 - Tools
 - Content ops
 title: 5 tone of voice examples and tips to improve your messaging
-image: index_screenshot_2023-09-10.png
+image: "screenshot_2023-09-13.png"
 ---
