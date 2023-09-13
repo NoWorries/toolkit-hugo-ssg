@@ -1,10 +1,11 @@
 ---
-title: "Tokens are the most valuable artifact a design system can provide"
+title: "Tokens are the most valuable artifact a design system can provide | Knapsack"
 date: 2023-09-13T11:26:48+12:00
 author: Knapsack
 description:
 link: https://www.knapsack.cloud/blog/tokens-are-the-most-valuable-artifact-a-design-system-can-provide
 pricing:
+image:
 tags:
   - Design tokens
 categories:
