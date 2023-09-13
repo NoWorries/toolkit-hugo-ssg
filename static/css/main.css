@@ -1253,6 +1253,10 @@ video {
   margin-bottom: 0.25rem;
 }
 
+.mb-10 {
+  margin-bottom: 2.5rem;
+}
+
 .mb-4 {
   margin-bottom: 1rem;
 }
@@ -1267,10 +1271,6 @@ video {
 
 .\!mb-8 {
   margin-bottom: 2rem !important;
-}
-
-.mb-10 {
-  margin-bottom: 2.5rem;
 }
 
 .ml-3 {
@@ -1739,13 +1739,13 @@ video {
   line-height: 2.5rem;
 }
 
-.text-xl {
-  font-size: 1.25rem;
+.text-lg {
+  font-size: 1.125rem;
   line-height: 1.75rem;
 }
 
-.text-lg {
-  font-size: 1.125rem;
+.text-xl {
+  font-size: 1.25rem;
   line-height: 1.75rem;
 }
 
@@ -2255,8 +2255,8 @@ html.dark * {
     margin-right: 0.5rem;
   }
 
-  .lg\:mb-10 {
-    margin-bottom: 2.5rem;
+  .lg\:mb-5 {
+    margin-bottom: 1.25rem;
   }
 
   .lg\:flex {
