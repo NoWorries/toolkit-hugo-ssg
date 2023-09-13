@@ -5,7 +5,7 @@ author: Knapsack
 description:
 link: https://www.knapsack.cloud/blog/tokens-are-the-most-valuable-artifact-a-design-system-can-provide
 pricing:
-image:
+image: "screenshot_2023-09-13.png"
 tags:
   - Design tokens
 categories:

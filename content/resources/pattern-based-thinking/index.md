@@ -5,7 +5,7 @@ author: Knapsack
 description:
 link: https://www.knapsack.cloud/blog/pattern-based-thinking
 pricing:
-image:
+image: "screenshot_2023-09-13.png"
 tags:
   - Design tokens
 categories:
