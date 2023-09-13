@@ -19,41 +19,11 @@ find "$content_folder" -type f -name '*.md' ! -name '_index.md' | while read -r 
   link=$(grep -iE '^link:' "$markdown_file" | sed 's/^link:[[:space:]]*//i')
   image=$(grep -iE '^image:' "$markdown_file" | sed 's/^image:[[:space:]]*//i')
 
-  # Check if the "link" key is not empty
-  if [ -n "$link" ]; then
-    # Check if there's an existing "image" value
-    if [ -n "$image" ]; then
-      read -p "Shall I replace the existing image for $markdown_file? (yes/no): " replace_image
-      if [ "$replace_image" = "yes" ]; then
-        # Generate a unique filename for the screenshot based on the Markdown file's folder
-        folder_path=$(dirname "$markdown_file")
-        screenshot_filename="screenshot_${today_date}.png"
-
-        # Use Puppeteer to take a screenshot of the webpage
-        node -e "
-          const puppeteer = require('puppeteer');
-          (async () => {
-            const browser = await puppeteer.launch({ headless: 'new' });
-            const page = await browser.newPage();
-            await page.setViewport({ width: 1280, height: 1920 });
-            await page.goto('$link', { waitUntil: 'domcontentloaded' });
-            await page.screenshot({ path: '$folder_path/$screenshot_filename' });
-            await browser.close();
-          })();
-        "
-        
-        # Update the existing "image" key value in the frontmatter without adding a new pair using awk
-        awk -v new_image="$screenshot_filename" '/^image:/ {$2 = "\"" new_image "\""} 1' "$markdown_file" > "$markdown_file.tmp"
-        mv "$markdown_file.tmp" "$markdown_file"
-
-        # Add the file to the list of successfully updated files
-        success_files+=("$markdown_file")
-
-        processed_count=$((processed_count + 1))
-      else
-        ((skipped_count++))
-      fi
-    else
+  # Check if there's an existing "image" key
+  if grep -q -iE '^image:' "$markdown_file"; then
+    # Check if the "image" key is empty using awk
+    is_empty_image=$(awk '/^image:[[:space:]]*$/ {print "empty"}' "$markdown_file")
+    if [ "$is_empty_image" = "empty" ] || [ -z "$image" ]; then
       # Generate a unique filename for the screenshot based on the Markdown file's folder
       folder_path=$(dirname "$markdown_file")
       screenshot_filename="screenshot_${today_date}.png"
@@ -70,19 +40,44 @@ find "$content_folder" -type f -name '*.md' ! -name '_index.md' | while read -r 
           await browser.close();
         })();
       "
-      
-      # Add the "image" key and value to the frontmatter without adding a new pair using awk
-      awk -v new_image="$screenshot_filename" '/^image:/ {$2 = "\"" new_image "\""} 1' "$markdown_file" > "$markdown_file.tmp"
-mv "$markdown_file.tmp" "$markdown_file"
 
+      # Update the existing "image" key value in the frontmatter without adding a new pair using awk
+      awk -v new_image="$screenshot_filename" '/^image:/ {$2 = "\"" new_image "\""} 1' "$markdown_file" > "$markdown_file.tmp"
+      mv "$markdown_file.tmp" "$markdown_file"
 
       # Add the file to the list of successfully updated files
       success_files+=("$markdown_file")
 
       processed_count=$((processed_count + 1))
+    else
+      ((skipped_count++))
     fi
   else
-    ((skipped_count++))
+    # Generate a unique filename for the screenshot based on the Markdown file's folder
+    folder_path=$(dirname "$markdown_file")
+    screenshot_filename="screenshot_${today_date}.png"
+
+    # Use Puppeteer to take a screenshot of the webpage
+    node -e "
+      const puppeteer = require('puppeteer');
+      (async () => {
+        const browser = await puppeteer.launch({ headless: 'new' });
+        const page = await browser.newPage();
+        await page.setViewport({ width: 1280, height: 1920 });
+        await page.goto('$link', { waitUntil: 'domcontentloaded' });
+        await page.screenshot({ path: '$folder_path/$screenshot_filename' });
+        await browser.close();
+      })();
+    "
+
+    # Add the "image" key and value to the frontmatter without adding a new pair using awk
+    awk -v new_image="$screenshot_filename" '/^---$/ {print "image: \"" new_image "\""; image_added=1} 1' "$markdown_file" > "$markdown_file.tmp"
+    mv "$markdown_file.tmp" "$markdown_file"
+
+    # Add the file to the list of successfully updated files
+    success_files+=("$markdown_file")
+
+    processed_count=$((processed_count + 1))
   fi
 
   # Clear the current line and print the updated count of processed files
