@@ -2,6 +2,7 @@ baseURL = 'https://toolkit.design/'
 languageCode = 'en-nz'
 title = 'Toolkit.design'
 theme = 'toolkit-theme'
+googleAnalytics = 'G-7BQELP86FJ'
 
 [Params]
   description = "Years of design bookmarks, finally being organised"
