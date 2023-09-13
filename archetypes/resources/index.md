@@ -4,6 +4,7 @@ date: {{ .Date }}
 author: 
 description: 
 link: 
+image:
 pricing: 
 tags: 
 - Untagged
