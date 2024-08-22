@@ -1,6 +1,6 @@
-baseURL = 'https://toolkit.design/'
+baseURL = 'https://toolkit-design.netlify.app'
 languageCode = 'en-nz'
-title = 'Toolkit.design'
+title = 'Toolkit design'
 theme = 'toolkit-theme'
 googleAnalytics = 'G-7BQELP86FJ'
 
