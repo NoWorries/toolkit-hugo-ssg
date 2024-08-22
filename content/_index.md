@@ -1,5 +1,5 @@
 ---
-title: Toolkit.design
+title: Design Toolkit
 ---
 
 **Years of design bookmarks, finally being organised.**
